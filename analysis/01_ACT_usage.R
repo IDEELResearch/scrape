@@ -21,16 +21,29 @@ dg <- dg %>%
       c("AL", "ASAQ", "DP", "ASPY")
     )
   ) %>% 
-  select(country, AL_2019:ASPY_2022) %>% 
+  select(name_0 = country, AL_2019:ASPY_2022) %>% 
   pivot_longer(AL_2019:ASPY_2022, names_to = c("product", "year"), names_pattern = c("(\\w*)_(\\d*)"))
 
 # format drug proportions being used
-dg <- dg %>% group_by(country, year) %>% 
+dg <- dg %>% group_by(name_0, year) %>% 
   summarise(AL = value[product == "AL"]/sum(value),
             ASAQ = value[product == "ASAQ"]/sum(value),
             DP = value[product == "DP"]/sum(value),
             ASPY = value[product == "ASPY"]/sum(value)) %>% 
-  mutate(iso3c = countrycode::countrycode(country, "country.name.en", "iso3c"), .before = 1)
+  mutate(iso3c = countrycode::countrycode(name_0, "country.name.en", "iso3c"), .before = 1) %>% 
+  ungroup() %>% 
+  select(-name_0)
+
+## ----------------------------------------------------o
+## 2. Read in MAP admin map and make consistent --------------
+## ----------------------------------------------------o
+
+# read in admin_0 and make consistent
+admin0 <- readRDS("analysis/data-derived/admin0_sf.rds")
+dg <- admin0 %>% sf::st_drop_geometry() %>% 
+  select(iso3c = iso, id_0, name_0) %>% 
+  left_join(dg) %>% 
+  arrange(iso3c, year)
 
 # save
 saveRDS(dg, "analysis/data-derived/ACT_usage_2019-2022.rds")
