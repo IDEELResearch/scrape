@@ -1,0 +1,28 @@
+Package: scrape
+Title: Spatial Cleaned Resistance and Unified Base
+Version: 0.1.0
+Authors@R: 
+    c(person(given = "OJ",
+             family = "Watson",
+             role = c("aut", "cre"),
+             email = "oj.watson@hotmail.co.uk",
+             comment = c(ORCID = "0000-0003-2374-0741")))
+Description: scrape is an R package set up as a research compendium, which is
+  for collecting covariates for spatialtemporal modelling. 
+License: MIT + file LICENSE
+Depends: 
+    R (>= 2.10)
+Imports:
+    ggplot2,
+    here,
+    magrittr,
+    ragg
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
+URL: https://IDEELResearch.github.io/scrape/
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
