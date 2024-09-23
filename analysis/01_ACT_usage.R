@@ -42,8 +42,12 @@ dg <- dg %>% group_by(name_0, year) %>%
 admin0 <- readRDS("analysis/data-derived/admin0_sf.rds")
 dg <- admin0 %>% sf::st_drop_geometry() %>% 
   select(iso3c = iso, id_0, name_0) %>% 
-  left_join(dg) %>% 
-  arrange(iso3c, year)
+  left_join(dg)  %>% 
+  arrange(iso3c, year) %>% 
+  mutate(year = as.integer(as.character(year))) %>% 
+  mutate(year = replace_na(year, 2010)) %>% 
+  group_by(iso3c, id_0, name_0) %>% 
+  complete(year = 2010:2022) 
 
 # save
 saveRDS(dg, "analysis/data-derived/ACT_usage_2019-2022.rds")
