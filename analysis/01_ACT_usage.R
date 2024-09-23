@@ -3,7 +3,6 @@ library(tidyverse)
 ## ----------------------------------------------------o
 ## 1. Pull in drug use covariates since 2019 --------------
 ## ----------------------------------------------------o
-covars <-  readRDS("analysis/data-derived/global_covariate_ranges.rds")
 
 # format the average drug use
 dg <- readxl::read_xlsx("analysis/data-raw/PMI_GF_product_split_202122.xlsx",
@@ -50,4 +49,4 @@ dg <- admin0 %>% sf::st_drop_geometry() %>%
   complete(year = 2010:2022) 
 
 # save
-saveRDS(dg, "analysis/data-derived/ACT_usage_2019-2022.rds")
+saveRDS(dg, "analysis/data-derived/ACT_usage_2010-2022.rds")

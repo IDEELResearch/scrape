@@ -20,6 +20,8 @@ read_map_json <- function(type, prev = "Micro.2.10_mean") {
       "id_1" = as.character(unlist(lci$dimension$ID))[-1]
     )) 
   
+  names(df)[1] <- prev
+  
   return(df)
   
 }
@@ -41,14 +43,18 @@ names(df) <- gsub("Micro.2.10", "pfpr210", names(df), fixed = TRUE)
 # get the admin names etc
 admin1 <- readRDS("analysis/data-derived/admin1_sf.rds")
 
-# are all the admin names dound in our df?
+# are all the admin names found in our df?
 # yes exampt for bodies of water (fine) and a few island nations (and lesotho which is just one admin with no MAP prevalence)
 admin1[which(!(admin1$id_1 %in% df$id_1)),]
 
 df <- admin1 %>% sf::st_drop_geometry() %>% 
   select(iso3c = iso, name_0,
          id_1, name_1) %>% 
-  left_join(df)
+  left_join(df) %>% 
+  mutate(year = as.numeric(as.character(year))) %>% 
+  mutate(year = replace_na(year, 2010)) %>% 
+  group_by(iso3c, name_0, id_1, name_1) %>% 
+  complete(year = 2010:2022) 
 
 # save
 saveRDS(df, "analysis/data-derived/pfpr210_2010-2022.rds")
