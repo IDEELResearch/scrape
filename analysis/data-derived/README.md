@@ -9,7 +9,7 @@ frames correspond to.
 
 ### Individual Covariate Objects
 
-1. `ACT_usage_2010-2022.rds`: Proportionate use of ACT types from 2000-2022. N.B. Data only for 2019 onwards
+1. `ACT_usage_2010-2022.rds`: Proportionate use of ACT types from 2000-2022. N.B. Data only for 2005 onwards
 1. `pfpr210_2010-2022.rds`: MAP PfPR 2-10 Admin 1 from 2010-2022
 1. `ft_2000-2022.rds`: MAP Effective Treatment Admin 0 from 2000-2022
 1. `seasonality.rds`: Admin level 1 Seasonality Coefficient of Variation 
