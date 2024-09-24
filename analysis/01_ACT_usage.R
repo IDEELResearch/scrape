@@ -110,6 +110,8 @@ for(i in seq_along(full2$AL)){
     full2[i,nms_pos][is.na(full2[i,nms_pos])] <- 0
   }
 }
+# save this out for Lucy to look at against drug policies
+saveRDS(full2, "analysis/data-derived/ACT_usage_no_interpolation_2000-2022.rds")
 
 # make a summary plot
 act_gg <- full2 %>% pivot_longer(AL:ASMQ) %>% 
@@ -129,7 +131,7 @@ act_gg <- full2 %>% pivot_longer(AL:ASMQ) %>%
 save_figs("act_usage", act_gg, width = 14, height = 16)
 
 # it looks like we can probability just interpolate
-full2 <- full2 %>% group_by(name_0) %>% fill(AL:ASMQ, .direction = "updown") %>% pivot_longer(AL:ASMQ) %>% 
+full3 <- full2 %>% group_by(name_0) %>% fill(AL:ASMQ, .direction = "updown") %>% pivot_longer(AL:ASMQ) %>% 
   mutate(continent = countrycode::countrycode(name_0, "country.name.en", "continent")) %>% 
   filter(continent %in% "Africa") %>%
   select(-continent) %>% 
@@ -139,7 +141,7 @@ full2 <- full2 %>% group_by(name_0) %>% fill(AL:ASMQ, .direction = "updown") %>%
   mutate(value = value/sum(value)) %>% 
   pivot_wider(names_from = name, values_from = value)
 
-act_interp_gg <- full2 %>% pivot_longer(AL:DHAPPQ) %>% 
+act_interp_gg <- full3 %>% pivot_longer(AL:DHAPPQ) %>% 
   mutate(continent = countrycode::countrycode(name_0, "country.name.en", "continent")) %>% 
   filter(continent %in% "Africa") %>%
   ungroup %>%
@@ -163,7 +165,7 @@ save_figs("act_interp_usage", act_interp_gg, width = 14, height = 16)
 admin0 <- readRDS("analysis/data-derived/admin0_sf.rds")
 dg <- admin0 %>% sf::st_drop_geometry() %>% 
   select(iso3c = iso, id_0, name_0) %>% 
-  left_join(full2)  %>% 
+  left_join(full3)  %>% 
   arrange(iso3c, year) %>% 
   mutate(year = as.integer(as.character(year))) %>% 
   mutate(year = replace_na(year, 2000)) %>% 
