@@ -20,7 +20,7 @@ admin1$seasonality[is.na(admin1$seasonality)] <- 59 # average for Sao Tome nearb
 ## ----------------------------------------------------o
 
 seasonality <- admin1 %>% sf::st_drop_geometry() %>% 
-  select(iso3c = iso, name_0,
+  select(iso3c = iso, name_0, id_0,
          id_1, name_1, seasonality) %>% 
   as.tibble()
 

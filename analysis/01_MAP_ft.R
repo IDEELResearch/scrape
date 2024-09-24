@@ -99,15 +99,27 @@ ft <- admin0 %>% sf::st_drop_geometry() %>%
   arrange(iso3c, year) %>% 
   mutate(year = as.integer(as.character(year))) %>% 
   mutate(year = replace_na(year, 2010)) %>% 
-  group_by(iso3c, id_0, name_0) %>% 
+  group_by(iso3c, name_0, id_0) %>% 
   complete(year = 2010:2022) 
 
-ft_all <- rbind(
-  do.call(rbind, lapply(ft_res, "[[", "result")) %>% select(names(ft)),
-  ft %>% filter(year > 2020)
-)
+# now get the ones scraped from the raster map
+ft_all <- do.call(rbind, lapply(ft_res, "[[", "result")) %>% select(names(ft))
+rownames(ft_all) <- NULL
+ft_all <- as_tibble(ft_all)
+ft_all <- na.omit(ft_all)
+
+# now just add the missing rows
+ft_all$uuid <- paste(ft_all$iso3c, ft_all$year)
+ft$uuid <- paste(ft$iso3c, ft$year)
+ft_final <- rbind(ft_all, ft[which(!(ft$uuid %in% ft_all$uuid)),])
   
+# sort out the columns and rows
+ft_final <- ft_final %>% 
+  select(iso3c, name_0, id_0, year, ft) %>% 
+  as_tibble()
+rownames(ft_final) <- NULL
+
 # save
-saveRDS(ft_all, "analysis/data-derived/ft_2000-2022.rds")
+saveRDS(ft_final, "analysis/data-derived/ft_2000-2022.rds")
 
 
