@@ -8,7 +8,7 @@ library(tidyverse)
 prev <- readRDS("analysis/data-derived/pfpr210_2000-2022.rds")
 seasonality <- readRDS("analysis/data-derived/seasonality.rds")
 act <- readRDS("analysis/data-derived/ACT_usage_2000-2022.rds")
-ft <- readRDS("analysis/data-derived/ft_2000-2022.rds")
+ft <- readRDS("analysis/data-derived/subnational_ft_2000-2022.rds")
 
 # Map to bind to
 admin1 <- readRDS("analysis/data-derived/admin1_sf.rds")

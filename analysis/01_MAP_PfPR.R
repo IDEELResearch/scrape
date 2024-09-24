@@ -115,10 +115,17 @@ df <- admin1 %>% sf::st_drop_geometry() %>%
   group_by(iso3c, name_0, id_1, name_1) %>% 
   complete(year = 2010:2022) 
 
+# add in the post 2020 data
 prev_all <- rbind(
   do.call(rbind, lapply(prev_res, "[[", "result")) %>% select(names(df)),
   df %>% filter(year > 2020)
 )
+
+# sort out the columns and rows
+prev_all <- prev_all %>% 
+  select(iso3c, name_0, id_0, name_1, id_1, year, pfpr210) %>% 
+  as_tibble()
+rownames(prev_all) <- NULL
 
 # save
 saveRDS(prev_all, "analysis/data-derived/pfpr210_2000-2022.rds")

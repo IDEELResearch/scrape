@@ -164,12 +164,12 @@ save_figs("act_interp_usage", act_interp_gg, width = 14, height = 16)
 # read in admin_0 and make consistent
 admin0 <- readRDS("analysis/data-derived/admin0_sf.rds")
 dg <- admin0 %>% sf::st_drop_geometry() %>% 
-  select(iso3c = iso, id_0, name_0) %>% 
+  select(iso3c = iso, name_0, id_0) %>% 
   left_join(full3)  %>% 
   arrange(iso3c, year) %>% 
   mutate(year = as.integer(as.character(year))) %>% 
   mutate(year = replace_na(year, 2000)) %>% 
-  group_by(iso3c, id_0, name_0) %>% 
+  group_by(iso3c, name_0, id_0) %>% 
   complete(year = 2000:2022) 
 
 # save
