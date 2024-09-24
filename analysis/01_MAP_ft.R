@@ -31,6 +31,7 @@ ft <- mean %>% select(iso3c, year, ft)
 ## 2. Pull ft from rasters via packages for prior to 2010 --------------
 ## ----------------------------------------------------o
 
+admin0 <- readRDS("analysis/data-derived/admin0_sf.rds")
 get_iso_year_ft <- function(iso3c, year) {
   
   get_map_ft <- function(iso3c, year) {
@@ -66,7 +67,6 @@ get_iso_year_ft <- function(iso3c, year) {
 }
 
 # get our iso3c and year grid
-admin0 <- readRDS("analysis/data-derived/admin0_sf.rds")
 pars <- expand.grid("iso3c" = unique(admin0$iso), 
             "year" = 2000:2022)
 
