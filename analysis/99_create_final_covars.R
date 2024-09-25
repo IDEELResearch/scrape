@@ -7,6 +7,7 @@ library(tidyverse)
 # Covariates
 prev <- readRDS("analysis/data-derived/pfpr210_2000-2022.rds")
 seasonality <- readRDS("analysis/data-derived/seasonality.rds")
+travel <- readRDS("analysis/data-derived/travel.rds")
 act <- readRDS("analysis/data-derived/ACT_usage_2000-2022.rds")
 ft <- readRDS("analysis/data-derived/subnational_ft_2000-2022.rds")
 
