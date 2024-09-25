@@ -14,7 +14,9 @@ frames correspond to.
 1. `pfpr210_2000-2022.rds`: MAP PfPR 2-10 Admin 1 from 2000-2022
 1. `ft_2000-2022.rds`: MAP Effective Treatment Admin 0 from 2000-2022
 1. `subnational_ft_2000-2022.rds`: MAP Effective Treatment Admin 1 from 2000-2022. N.B. Any missing data is due to no malaria prevalence.
+1. `pop_2000-2022.rds`: WorldPop population counts from 2000-2022.
 1. `seasonality.rds`: Admin level 1 Seasonality Coefficient of Variation 
+1. `MAP_travel.rds`: Admin level 1 MAP travel data 
 
 ### Map Objects Being Bound To
 
