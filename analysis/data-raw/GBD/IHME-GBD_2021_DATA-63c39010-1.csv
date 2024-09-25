@@ -1,0 +1,1013 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2015,25.176913238903847,27.998419886857974,22.40780144317568
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2008,24.624111848214792,28.13527390547105,21.49828806288891
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2002,30.179378395410172,32.74989488237877,27.70014748263396
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.223576343186828,31.427457949655178,25.317708880651008
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.66980073368798,31.54112297306258,27.94968576931795
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2008,30.03031275743913,32.577495673594406,27.58118646214161
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2002,29.98138192382969,32.66024048474352,27.83354697889876
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2002,30.421568600390692,33.343533560756185,28.12755894811086
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.495591325484597,31.39302332726168,25.92083556457136
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.03043449326717,32.11823956013874,24.34543855678858
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.760601849493018,31.63286299931966,28.09764339570599
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2017,25.259341480316362,28.2041647742845,22.68774803143616
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2009,24.14813370094318,26.87836643565224,21.62734603910026
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.21758945402118,30.7777557534276,25.45663102620881
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.800036851060987,30.367033969271702,25.16958241658369
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.16900557254201,31.069360695062283,23.980997608662292
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2018,26.99948351408588,30.22773369201383,24.03809356110308
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.720066847487193,31.25049853069385,26.29929906050875
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.21294376492757,31.84341868616291,26.984112593492288
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2010,27.35572234230292,30.7142382957456,24.00245071275519
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2002,26.16579481283955,29.13979457064552,23.50345050272259
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.450272469676428,27.86459511909672,21.32099328247481
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2001,24.88048707771658,27.751252237096892,22.59223776023006
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2005,30.255322975386267,32.86510708960362,27.81001740480521
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2018,29.30418140485747,32.29877735668574,26.513149201808478
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.29596067526941,31.16918374063929,25.22881043147015
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.84362184538823,32.42703691422245,27.6287561864084
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2002,25.05704197090491,28.02384656655887,22.17964058971823
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2005,30.001554929694603,32.67071317833466,27.819874469192552
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.698501586759278,30.333060904489827,25.42854994580947
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.019111811813218,30.42561127487954,26.268214180031812
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2007,30.06460062407263,32.36045018160179,28.337639654873147
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2011,25.859645950220063,29.206783972355748,22.71944846419538
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2002,22.87973688753019,25.935490430119017,20.099793455977892
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2012,29.013649858084772,31.23444720020544,26.90977948114669
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.573781064195668,31.014489060042738,26.28716468529876
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2008,26.50479353866456,28.89187940271788,23.739990152619487
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.2771526252342,30.372028000400782,24.29942727788637
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2007,26.05253659889078,29.830395698814787,22.892701325507712
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.08425001006317,31.02476097056054,27.35735934025596
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2009,27.73352934004518,30.01373149689449,25.707383466166362
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.525440427181948,32.29006817273496,27.51603708081815
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2005,24.733559661150988,27.47264434427124,22.343480044741103
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2001,27.96943021235117,30.248341971444248,25.812878397831092
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2014,29.517231849319707,31.50656840694529,27.79107009123189
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2013,27.12992615262676,30.340856118386178,24.68889407019128
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2008,24.61252326633509,27.22488329693757,22.17351710179039
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.08161353358772,31.02902341998415,27.3661034023249
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.293997224456408,31.85400997858435,27.11850164634996
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.8270134081708,30.86091526193919,26.800854269720308
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2004,25.689135553092118,28.38074618584278,23.13649778488238
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2002,23.84636807810657,26.94607341260865,21.01082150523322
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2005,24.93345170403433,27.935405633208198,22.12348761318175
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2010,26.798606582751212,29.168949793554848,24.54897273181819
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2011,26.641846644038132,28.90753235166596,23.84646617329167
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2014,29.80216375651673,32.58071804371111,27.39619731596313
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.64160221493221,31.04689260646878,26.524479549888667
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2005,30.79701400189555,33.79708480293446,28.50116504433608
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.594428288425828,27.860867350209467,21.478029610533238
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2016,26.73704879554812,30.194069409710362,24.00285265554688
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.80022724156317,31.37965238018028,26.6215378703478
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.03301496366877,31.22184594586791,27.035801706549613
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2012,27.611125139537503,29.55413951280349,25.89487863298517
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2011,24.45973460369923,27.82520304721592,21.42355048525981
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.14496320391281,31.244416642707503,24.910093034672958
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2018,25.46645475221454,28.46776759236488,22.73289357995239
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.92449494872067,31.397446752181718,26.61279879070209
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2007,20.22659317760582,23.17846370139505,18.022624559387047
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2002,27.746835105178707,30.508626514591956,25.611886893296994
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2002,24.40494445566676,27.737427848643858,21.22667351298522
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.615609620801756,30.813658161766313,26.56830345866275
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2008,25.18355990619845,28.185197495816038,22.495644038055353
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.9980799065433,31.221079982332924,27.04168150249434
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.82906499148228,32.10489552460149,28.10532316783806
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2002,29.78232499692808,33.327276213897214,26.793457077595267
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.707063397237693,30.36389979054802,27.216273573682457
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2014,29.611170520877337,32.32731845626154,27.41902943053115
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2010,24.99242769651255,28.70805760705986,22.01685342459245
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.66174283810301,28.17368260551462,21.591519797981327
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.997378008890912,30.75984285015476,27.39834726597404
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.6134955691644,30.33505652265603,24.78442275625616
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2013,27.549696853777476,31.581242415257083,23.75208882560922
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.54138750772019,31.472764396142427,27.806458758285004
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.85380348626292,32.49452523556438,27.389762548231612
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2004,27.214647192235457,29.00767997060117,25.57706165582851
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2002,24.70816888258964,28.132364895821887,21.64061002168576
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2005,23.854494551558737,27.021554132493193,20.980652985285158
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2010,20.10328676280446,23.17046353686909,17.848692806487882
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.824507362392897,31.37472643345886,26.207297507077847
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2009,23.84757842797374,26.797195031824238,20.9000014026346
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.675845189755428,27.43209605076483,22.37901186132031
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.430790141312222,31.30932456147005,23.79838375817832
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2005,27.8989681966526,30.746525237905058,25.65187172915271
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.493076482511242,30.40334495005494,26.93316173694177
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2005,24.543383658149338,27.945975734359042,21.35887142168869
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2013,25.00411340127991,28.68288827556722,21.81888362903626
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.56550353025952,32.36865633479767,27.52498211419044
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.084236913472626,30.73607772618955,27.625084051339684
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2007,27.214090233200338,30.98408277318393,24.37740231444612
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.68609012534628,31.68728080456652,25.42729609387508
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2008,23.51599719398835,26.61043674675259,20.79086393007185
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2002,24.31132923048098,27.37468669507459,21.36528095068836
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2014,25.3632698442754,28.276475535975397,22.593422725524988
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.844940888877257,30.81435579237658,26.80619956526345
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.09751729304424,31.21588606837809,27.19762912931199
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.99194250906989,31.11436586487855,26.94848359866785
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.44922164144365,30.21859677061048,26.94220044970826
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.99582081644596,30.982484102345342,25.17143336705
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2016,24.38884765022688,27.994089718534,21.32307924758491
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2007,27.80038483301579,30.530603176398042,25.011666248192473
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.96147988932016,32.58629062268764,27.679105401984888
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2013,26.72056754070934,29.282213104948262,24.50322986977197
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.514655594201678,31.54111767969361,27.7961597872365
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.91433050228423,31.424442651289308,26.576997877280302
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2008,24.46420881895379,27.945303471240102,21.47950849496992
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2001,24.45956766620432,27.43107374317341,21.338523469525082
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.64485099771663,30.35614799935688,27.22337871156202
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2014,23.35920265740421,26.48793086620511,20.65886940396399
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.28809901135304,32.20379321754025,26.38639918346709
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2005,24.364698019219798,27.2820690181379,21.53698793784816
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.86739907341706,30.66999697827993,27.263660270084223
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.283579906090548,27.609302499730948,21.28472374123686
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2016,26.91924702678159,29.38081904328742,24.39483631830833
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2002,27.61714476134167,29.92281924858069,25.547019585185687
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.094264825546702,31.5768360771997,26.88024028585066
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.918406194290608,31.168098922808106,26.891967989356168
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2012,24.54101651349098,27.50611077072221,21.95207330853946
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.72792026949126,32.56241755832142,27.58258338912427
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.591311918462733,32.38982249934881,27.14452600507417
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2007,27.25210753567671,29.07203086203672,25.62058801297423
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.99747770921075,30.96263796932664,27.30736159174646
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2010,27.44389243858133,30.995544936485857,24.57862182631604
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2004,23.88200209386703,26.59276755536155,21.435889761541098
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.81089923885843,29.801026750085008,25.98456557899626
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.69565016594558,32.33811842268694,27.50406248853825
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2011,24.660153326567567,27.209348167078666,22.37308001269183
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.17441322623749,31.49553887830827,27.20478105697652
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2002,29.039761371924328,31.05914265668034,27.300411248357044
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2011,25.350200611204322,28.277322314759612,22.54434113751049
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2002,30.400834645168317,32.67415739721374,28.645800276516482
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.01286042284729,30.20503131551247,25.748674196851578
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2002,26.76278196967865,30.5810025775304,23.32438104072963
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2007,25.51006647889864,28.25537957911159,22.860760866428308
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2002,20.83287644003866,23.71435043424196,18.75316090756127
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.43660262243557,30.602737062633388,26.26666040902601
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2002,30.386523613535022,32.94758638071225,28.10417687939204
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.76246006481022,30.784305189747602,26.97040378902585
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.00589013522245,31.6821095036669,26.34415637160645
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.49253350277618,31.00003365781741,25.831440641527458
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2014,22.02865102179468,25.64603728202033,18.71223168466286
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2008,21.2975062954602,24.29771192343645,18.553263071806832
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.660521731990702,30.287883302125092,27.188046632229018
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2013,29.649862183312496,31.94495595494179,27.8929791993416
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2002,26.75918569843479,30.20118626074077,23.88299455571076
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2012,27.49299822926777,29.91504018955918,25.12966683579185
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2011,23.48296641564238,26.42197866298954,20.732203315102172
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.71122167246693,27.60990696415479,22.32641385824114
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.02381920592886,31.65706349083471,26.442956821628847
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.631109331005128,32.11872905821999,27.77531130622603
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.57317802616153,30.55031033031047,26.95487921442704
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.76684207682439,31.44585176446606,26.39534011014898
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.07463038071562,30.510230485677248,26.30723813253033
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2001,30.08767431381801,32.48264351455038,27.92056496760119
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2011,24.56968049067013,27.96911742264862,21.56716764700136
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2016,26.03440616781408,30.015992291595012,22.686524902961448
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.80197799938499,31.14796570366776,26.393601291220893
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.90970214198944,31.610965115344303,26.605068605714983
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.95233877676104,27.99388377655059,22.11251285706341
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2002,25.40590999429418,27.90694662726874,22.84802754845692
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.729048005867032,30.83069030308972,26.849571347369622
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2016,20.12741486162074,22.94714356353155,17.7744147819824
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.50819877930072,31.33898559913384,25.822067197496
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.288859836167127,27.51705909723895,21.44267716797497
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2010,25.701034303317723,28.34898562833605,23.082508926573738
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.41263431296028,27.69638565561629,21.396786361941402
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.08430720059204,30.922573287530643,27.41855669030287
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2019,26.27586463946066,29.96565511965751,23.20865995549539
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.174349165071842,31.0107054236462,24.13322987106937
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.75143214187064,30.60677928855553,24.902823621635388
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.27806823585213,31.05324366404001,25.86872280056803
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.45921498252693,30.28637673630421,26.926975407051103
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.069188921932533,30.9537187351919,27.299910878454448
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2013,25.142293263774317,29.0054332979922,22.13684494655625
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.298425044671973,30.58581210380245,25.934350559522763
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.196404561854887,32.09489665964763,26.44421142144413
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.09767117678071,31.054062378158807,27.38970806877083
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2013,20.08149111035479,22.93834409217187,17.76104272733943
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2005,23.22502432177592,26.487460451853416,20.2356425357791
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2007,24.07894912819433,26.835123209832318,21.59134983247468
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.30801494301503,30.82992848908076,26.482330297167024
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2004,24.38775743148236,27.411825021612803,21.26647404364979
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2008,30.698055400169437,33.7197310592347,28.12120335172118
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2017,22.48235504211819,26.06573862199268,18.83767112602297
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2011,22.64693202330647,25.89721645498873,19.54221305675158
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2008,27.84536257476865,30.86892697911689,25.52563662791884
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2000,27.61872162838913,30.334946538542567,25.52446605345536
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.548411009783493,30.83784085394809,26.489107019120528
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.792010395102093,31.153506434524942,26.66084101611058
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2016,25.41835566822066,28.298848313194654,22.6882072179762
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2014,25.66716038447721,29.201899589545437,22.24373657589821
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2014,26.906472833965587,30.29505399578215,24.36083448310671
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.64661986920179,31.06063853195513,26.462970226256672
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.8149451829486,31.53282610987168,26.151964332066118
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.670961589995493,32.54701184625915,27.54748019384237
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.84673404317847,31.37562214108839,26.93147898598805
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2002,29.101258606165757,30.97006608531948,27.30567568464892
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.32888400526568,32.15305847938806,25.05771372944217
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.869087063632293,30.46068467663543,25.25569101927393
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2012,24.15146418336524,27.30648229873361,21.19221221942355
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2015,25.001656122758547,27.96127315135592,22.30043234093558
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.627206234615997,30.2170414788365,27.19495782543832
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.607029566426778,30.18143160906961,25.267110935945492
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2007,27.874341111975493,30.09824213164048,25.59748058219342
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.579061348769258,30.27850500540843,27.157157606054998
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2017,26.38894365384769,30.04807510263191,22.8599795616487
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.712918734834133,32.20761814610128,27.24657668158384
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.2947876998332,31.18348842451017,25.745290109644394
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.972391229117438,31.56658337555619,26.561709879865752
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.550023342700342,30.47732719374893,24.54695111596136
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2007,24.33225943079672,27.33333991601577,21.308138224574698
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2015,24.12840687837739,27.31871036815816,20.8044658679407
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.71498445485767,30.37541221140618,27.30458778353026
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2002,27.850601741440688,29.74495932521114,26.30377434044815
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.47759826921737,30.15867773374774,27.029905637424623
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.77469477046714,30.77320129918081,25.125627651477224
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.06502588397053,31.66437848262192,26.492677596881332
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2008,22.86174912377463,25.811374177826167,19.93064976578084
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.89139859024211,30.98094668693433,26.99499241533021
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2018,29.24984451073691,31.81689749926329,26.973867569057468
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2003,25.62162537015699,28.846515060635518,22.49291781863926
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2011,30.240484888357912,33.23559593170565,27.342783160843346
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.87533022634628,30.94134827065146,26.80066886328128
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2013,27.017280437615398,30.694737005513574,24.05311408032824
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.2530737522535,31.20038549095725,23.431626497822002
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2010,27.43110943513763,29.33154944860819,25.70303250834081
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.409516483335,30.318180660472898,26.86542714421782
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2010,24.320594948548948,27.210875907216632,21.773653687998003
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2010,27.876231481916204,30.151010476348727,25.9082704451434
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.86329404231575,31.460016318728666,26.66007294388843
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2010,24.60324609232715,27.57745234650391,21.74767263262818
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.122059530849718,31.659982631198304,27.16023525168823
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.670774976458457,30.384063752465963,27.255576380301484
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.010672372878123,31.809113047428163,26.44967812244463
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2005,24.525866993210972,28.05240390493629,21.496682907877958
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2019,24.67723365841103,28.2271390854807,21.34635962584326
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.53128210797821,30.99295434687089,26.12478107450836
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.72636134471846,31.67683665406872,26.14760121496575
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.340239136616308,30.96162109936615,25.67913763292003
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2002,26.430983418297398,29.27560892527123,23.758321203572972
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.215553123719587,32.22601525578419,24.59564543650436
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.88077046990924,31.744349831321312,28.228729711258673
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2003,30.2469547299908,32.83814580259917,27.86105227987915
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2000,24.76167255804187,27.555879898446012,21.92473371381137
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2013,29.055989558934257,31.323098778513508,26.91517457820627
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.08942662646169,31.146717960525528,27.224596388358307
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2005,27.84860425522887,29.73776606531257,26.33869211968657
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.070870235537797,29.611279213206497,24.61595833668295
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.039856293400902,31.210063807076025,27.05800505438301
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2014,26.625927618767083,28.91687008462245,23.844912982797002
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.31096388048333,31.79913319608073,27.29464520105902
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2011,22.56090659699408,25.46285397335612,19.7732647959174
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2017,26.74836203441322,29.049259913346546,24.03540373162306
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2008,24.594323756709898,28.0598751293691,21.73791541242511
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.64366617694897,31.491191279416718,25.97592886415846
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2005,27.157924574657834,29.664970920504842,25.00174687520753
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2005,26.36621707115786,29.1849947936362,23.79429050353431
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2005,27.818239893248233,30.151300609891603,25.218732234440576
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.70251978516984,32.13228449046129,27.78167956666408
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2002,26.63157027881754,29.263945640486412,23.87966646322884
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.582712408823678,30.88172371093572,26.44777251182508
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.10068040445947,31.19908264675468,27.32444810702911
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2019,26.4782973175262,30.5356001225027,22.90841522231368
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2008,27.71077344805984,29.66790133722259,26.05214998617138
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2013,24.97318915673582,27.872190973408053,22.20711700938897
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2008,26.8579245701854,29.29434410514103,24.61589109068501
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2017,30.21610148460071,33.11501108939073,27.97644376936906
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2003,30.00540331373056,32.672829105950626,27.86433649969406
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2003,25.502247275788548,28.40197538800662,22.972257928499427
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.11996120792854,32.745400074998635,25.657468097463322
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2019,20.204033003395967,23.04602792007729,17.85187583264804
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2003,24.74867985921016,27.5191310945168,21.92043093112249
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2003,23.93914317888274,27.11664733802438,21.03796088635554
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2003,24.59185005236444,28.06686491349492,21.36899685721139
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2014,29.94505681374966,32.86654844878514,27.737468009350668
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2013,27.88552592398048,30.387433522709266,25.34399614834408
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2008,26.01923842985055,28.95275960334785,23.32286567822274
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.9720381922232,30.68395341948725,27.40536375153393
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2014,29.81888149546729,33.02499286089553,26.77000576518433
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2003,24.40923604476901,27.285289955173432,21.554464465347813
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2014,22.63538185624899,25.80773487925581,19.84178666786413
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2017,22.6115482146705,26.06378071847702,19.789096852008882
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2005,30.239374288323518,32.5194426040257,28.42400059554877
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.51708065310763,31.427134934352807,25.795896350650022
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2008,26.878731193982418,29.52129582069097,24.20465633611154
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.64785062564179,31.129279276419098,26.53336307517989
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2011,27.592830963685277,29.66009032102825,25.705468830959337
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.00059272165812,31.171075817633643,27.13717561625047
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2011,26.03891470214275,29.05492395274003,23.349050443665618
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2005,27.212279206937527,30.921456888183318,23.89710235620404
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.07413704919929,31.043060782617932,27.27833547380301
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2011,25.909106963761918,28.62578028693138,23.09770881039825
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2006,27.89549718129387,30.79922457469197,25.67260491631911
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.079188118738603,30.963957260121088,27.29218741141915
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.72933236228437,31.08397451127128,26.615244162517538
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.23611335495018,31.20688151562826,24.05522309722419
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2000,25.66322776954406,28.81538549267312,22.77574598471559
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.75600940424297,31.590532002845688,26.43749417443257
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.550562938421507,31.156112457967172,26.42611505324829
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.425336235954067,29.55877985759433,25.27077493162166
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2000,30.18867022922769,31.99097517326342,28.56262230114427
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2014,25.70735804409818,28.79308086913488,22.85799047397701
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.76609977139873,32.339234058783376,27.22722443341618
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.91626686192414,32.59359085827267,27.80135420099132
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.563406628925907,31.26724538476851,26.28823153085646
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.54919944846646,29.75123730514216,25.37384632393604
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2017,25.85858787544461,28.92114402356919,23.01022928604627
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2000,27.45759956657959,30.39671844665966,24.668808309542438
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.225909009649243,30.5405620829595,26.41222654528596
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2000,25.91583617057824,28.82071679509348,23.4248855431062
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.36049304031229,27.38727110356417,21.472728349549662
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2005,20.37080452542206,23.27834510486272,18.31677275354404
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2008,27.85506904124911,30.24664623872932,26.02047737948293
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2000,23.89445858072418,26.87095967984665,21.11398448602075
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.76688153385517,27.75120624562938,21.871571574978592
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.98078972804501,32.31010341825039,28.23672833927771
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2000,24.352164531866592,27.76742923894358,21.209409683240498
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.63872189689607,30.3624190696058,26.979087871790057
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2006,25.569507780038244,28.57966628655415,22.60880259252201
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2000,25.38469280850459,28.19959129742972,22.65354361777622
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2019,26.901738373459573,30.01699316174794,23.80718056515505
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2005,30.26161717716036,32.86717002084959,27.84043570208492
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2005,27.46161234787925,30.978887435919077,24.63762093764456
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2008,25.35728640172108,29.150507939632632,22.42281424600021
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.43772897080827,32.50536966727685,26.67981728465318
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2009,25.67760462077711,28.883143938022883,22.65117971363075
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.47258706212335,30.95602520729376,25.89330300380384
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2008,20.174651678033488,23.14905129249006,17.94467336294327
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.24412136580535,31.81608835581336,26.98908367155465
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2019,25.58341773272322,28.65300561376406,22.82067985080877
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.50964331404286,32.24953122462007,26.963768547500628
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2012,27.36285683710044,30.52281198861247,24.94823894542036
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2008,27.097294104141252,30.73711786643072,24.2418320279247
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.864768427789237,30.6015188032444,24.9593503311835
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2011,27.91156209534462,30.357062004261547,26.096831652096007
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.189414065426284,30.70237951116618,25.48072390146494
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2005,25.82416191957205,28.55364857532437,23.11715547467047
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.373589286857708,30.75190030542655,26.54591617930625
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.91539396990883,31.46098817328122,26.627228508609306
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.66717330201054,30.86751781039102,26.59431276089352
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2008,25.441233985845468,28.160876229881993,22.61130794508234
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.27185441336012,30.439745116599088,26.00747913158541
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2003,25.641068460713427,28.433358687344352,22.65831874433541
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2006,25.299932032901552,28.52092611559319,22.29091425886828
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.657161652079733,31.08510286078966,26.468233177611328
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.53819415309402,30.90425441943975,26.391949923392648
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2009,24.63941842380132,28.128939936346846,21.57257429937132
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2006,26.623239873360312,29.961663200814158,23.63753395210017
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.30299541202538,31.47101897914315,25.31121948263319
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.713364155183246,31.60564329859565,27.99300332663337
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.621696465393736,31.51635291653408,27.90345613819461
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2006,30.231880531395277,32.81331965274981,27.827153560333368
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2009,30.044213303686142,32.66739917408082,27.706538544338922
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.95441406218593,32.63105648575476,27.75815513703786
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.77750099788134,32.39007364159558,27.56403471675235
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2006,24.52823194410703,27.20193295143983,22.20137071195927
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2009,24.61331264646087,27.263901076239648,22.15853905801939
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2006,24.82951693156041,27.72943997487821,22.018587306213313
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2009,25.14569192492473,28.043706829284197,22.52203174345149
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2009,23.40283397649999,26.42593933679046,20.72178960506848
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2002,29.07380648286025,31.25922928931539,26.942388928120607
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2006,23.8611382448256,26.95547941974298,21.01200787197438
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.857812469310453,31.70485128894288,26.24293447527526
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2009,24.68783289637623,28.11522815260032,21.68518819563518
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2006,24.48037450424781,27.9154828394085,21.40443106100665
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.029111682402743,30.821848090742034,27.522984723627243
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.93444514688961,30.654539196821478,27.39416250004252
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2012,25.29682887343464,28.6784363721189,22.01765156580489
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2009,23.0058239553899,26.36615162794263,19.88988598984974
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2000,26.57544306624584,28.930855720037613,24.13418795693648
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2006,23.48605754930821,26.52150393064398,20.53953425161161
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.82560373861623,31.56684827019358,26.19463603108157
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2002,27.189322656593717,28.956790146311988,25.57204707529538
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.422502399316862,30.19840925999698,26.90248976218335
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2002,24.43627799427327,27.223836674316708,22.04281878172915
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2002,27.990345916567822,30.18095963123565,25.79289763117033
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.05417834007622,30.922854148472638,27.270594679484077
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.966770811830898,31.549738435724002,26.399573755098587
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2018,26.30274431287421,29.946358531521938,23.307860275709082
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2009,27.86184552496459,30.85219896121108,25.57966048224288
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2002,24.598543843755742,27.56494801750553,21.44332462183956
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2017,26.398682945516672,30.00061597244967,23.55901726598486
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.725851379842,30.328969197202422,27.24843887249202
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2018,26.593537875603353,30.183625481558092,22.9654648984891
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2002,30.04039637116726,32.472764137937,27.79189107810684
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.993832537892988,31.547943660388512,27.09040039992003
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2011,27.563173199999152,30.66395735064325,25.18277068355273
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.902067715746224,33.47354291947024,26.89575754113367
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2003,27.801682442936087,30.616572608353742,25.618187188386248
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.69046947367597,31.123397515668227,26.57181139036228
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2012,24.36722404163842,27.76379058974675,21.22245196346545
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.156948889480738,30.66592461511456,26.333446621407454
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.02415995622708,31.174441698313398,26.99150243579234
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.93991246121369,31.54906427528169,26.484945409573417
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2015,26.761064584168672,30.230365956382858,24.05354485171506
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2005,25.58652298454075,28.818397098345837,22.450716538598158
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2006,26.517518377488,28.92529302920851,23.87107426411344
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2015,24.5271474683323,27.96969417752529,21.41685873444256
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.29163950002176,31.833461741516324,27.33455309286952
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2009,26.809893767665283,29.03013060735058,24.07011236602282
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.89369397482524,31.55465541551908,26.411336329149222
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.97076417388454,31.3249407073869,26.777669156994698
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.536300185149038,31.428446566239337,23.80601624918162
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.54534584915037,32.351891072713116,27.523523550344
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.577088635485698,32.40990189925397,27.479940431019088
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2000,30.02066669569668,32.994972056177566,27.63928971336963
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2000,22.91356273868675,26.007391143972754,20.15859798721972
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.76694117154456,31.12628970434435,26.61250316216867
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2006,30.780778354273906,33.75805740196387,28.361891981488256
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.57120961445789,30.88759613156663,26.471564226847583
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2006,22.69691509560873,25.584107795424288,19.82696656705663
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2009,30.61021358147618,33.73398091996575,27.816606156924813
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.426142885960186,30.35686379643282,26.60647302642395
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2009,22.87888395754523,25.8242623895934,19.947230905935857
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2003,26.69105631248599,29.027464328441212,24.29511785574374
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.87273573023343,31.02050840946816,26.90705479268503
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2000,27.75108018985716,29.60258415397617,26.19854185911652
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2006,27.79199348611322,29.70796930092403,26.213123515441712
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2000,26.123069734008357,28.970967907561253,23.49755808611275
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.46973957082326,32.083492183421,27.49548162726436
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.859675689541533,31.227556507061582,26.87885988522615
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2006,26.14332689843262,29.02001100497631,23.46850041816481
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2009,27.731401290966513,29.75707018156126,26.012931043097282
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2003,30.53527325268141,33.50385261987584,28.243608613584282
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.70806202471718,30.69525033815203,26.529722122988808
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2009,25.95211559567412,28.95937119669323,23.24091445240382
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2006,27.34262272618585,29.79044427710496,24.680906526928208
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2003,22.9950144765815,26.212581766569247,20.194113352370678
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2009,26.266555138404367,29.0003376119772,23.57666423018582
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.944350588042028,31.02446647191199,26.888313426283673
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.079801290891037,30.98251407096916,27.287829483569592
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.682254614367498,30.73561336614436,26.82977277588414
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2003,27.863014380579358,29.71812330037625,26.31440414176513
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2003,26.25121198361182,29.07710571043548,23.58219629049848
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.057105598778946,30.39587632241199,26.16915538371941
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2003,27.96670931853716,30.21617407747582,25.414428011990232
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.06682347863824,30.419648789398313,26.30745544116039
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.06672303802353,30.45991688609213,26.222184696791267
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.24106435073686,30.5628896365299,26.392391141857118
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.167016911999546,31.13453661954856,23.41997769638687
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.59739015664814,31.09873432635299,26.2140673848052
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2002,25.66082733030849,28.851763989735407,22.61433654920327
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2015,26.045253587939698,29.535106313606978,22.53573285531772
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.85231597353345,32.61959913110627,25.28848561997959
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2001,27.67580932034092,30.44944267338548,25.531123057771772
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.688776009678417,31.12573883096183,26.48039951214406
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2011,27.63232942507306,31.80539170275664,23.81987504668951
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2011,23.14870372314,26.82531248598555,20.22934724503142
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2011,26.712402555765607,29.18359170447732,24.42215575968226
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.92808567728687,31.15558282944455,26.9771773155497
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.73224790265205,32.01542181901858,27.971027995031548
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2011,24.59340207418355,28.11989266334387,21.70096675581225
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2011,20.121450704169412,23.167711949787222,17.83636934892259
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2011,29.373716752928956,32.199755946001844,26.87687734495362
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.07435627266317,31.028056382098328,27.35224205162181
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2011,27.01388866695482,30.65277414869755,24.136066641906588
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.59359155910758,31.07018063120218,26.04376001071815
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.71369569343585,31.47743484940817,26.173255482911067
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2011,25.21121995478488,27.86096271061157,22.59871307449772
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.03561210875168,30.407046964843943,25.58549021402931
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.987046398461818,30.891484783985927,26.98141675444919
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.95816459182036,29.97176859696452,26.02560045305521
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.60831913087074,30.69117482901087,26.96689651190382
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2018,25.351647150270367,28.320827285592546,22.75955683199556
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.682086868813027,30.32099441717129,25.22276509415502
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.093460142553212,30.21755371275965,24.09886755863874
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2005,25.70293206670741,28.629790795387102,22.74738860732858
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.6578034294188,31.451887332849683,26.03991462661726
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2018,23.97333939198082,27.24774971912946,20.83492534793956
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.79430168634698,30.43728218702136,27.345076870369887
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.59246563011152,30.68384572264477,24.60411812320011
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.003169818982933,31.09730811866015,26.956862742484137
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.261642973410687,31.16917661619622,23.5645013704636
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2012,26.69558083017375,28.98154145211707,23.825895806867788
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.441646782817273,32.05410537493522,27.18334114839997
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2004,25.56015247711421,28.46256657663309,22.600961524794972
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.14571102539945,31.2084506466171,24.96206620359919
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2012,29.54163873211426,31.475805776681682,27.82285547032042
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2012,29.93927499032501,32.60685818371446,27.5868911392114
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2012,29.68595359783282,32.36790738582224,27.51055857211729
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.51079534840658,31.582025201997784,25.81382207223128
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2009,27.358863734263313,29.189293877865254,25.63565682961385
+29,Summary exposure value,171,Democratic Republic of the Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.8441885311799,31.6816514809519,26.22826555353414
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2002,25.610431979060387,28.27316695700542,22.74736686857398
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.58205990298609,31.47763445135495,25.40573401129238
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2018,24.61388083043353,28.17216262820899,21.53890904936024
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2012,24.66833842962372,27.325754882552438,22.424323537801392
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2012,25.428713771913543,28.422292417130677,22.593534005804567
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2015,29.510677728274697,31.50981268018036,27.779945522500448
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.82785611076264,30.865180124656312,26.786034435428668
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2000,25.05075072074131,28.531016172559397,21.99813284145484
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2000,27.67705982762141,29.887544050559512,25.71867901844685
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2008,25.544864924820438,28.70047187636758,22.52453601654579
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.019613000576772,31.00662539038943,27.308300530361667
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2000,30.530711083530488,32.79818284227669,28.77289436644308
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2000,26.497681328015638,30.261954193824803,23.21332930052956
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2000,21.2710853635002,24.14317520880413,19.14642502619783
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2000,30.114564085498756,32.495796340244446,27.66537199808317
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2000,26.12481140244542,29.441758221919052,23.25096130489213
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2010,25.978327896812992,29.237225328718203,22.97260521206497
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.59223663150013,31.005730958592032,26.070545920644463
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.06018873240084,31.563604685220582,26.938116796823458
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2000,25.21555960353039,27.92477670761367,22.64509955369068
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.763685477649158,30.799514647252867,26.93566380761567
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2015,29.637536210943498,32.48885027183716,27.016983936767105
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.016123577588694,31.234776978227607,26.91616974248745
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2001,25.23962672063656,27.95652069725026,22.27391923399001
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2002,28.7305034178918,31.69478165892906,26.18273110944273
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2012,23.33381368170338,26.37591135969018,20.65365427867219
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2015,29.654213872490697,32.37588006393551,27.509360780302174
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2012,24.4506366435732,27.811704278217892,21.414156777523672
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.89960350965947,30.81723243460336,27.198931314586574
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2015,24.68418297662864,27.57114701587527,22.359172470385598
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2015,25.50270184778176,28.543106570944932,22.73195146314728
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2012,22.92159052972547,26.438721317059162,19.54835481128982
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2015,23.014584877204918,26.13826621299124,20.26864896393878
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2015,24.37749020851388,27.573005444280252,21.37178785451826
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.981795595564304,30.95171299795313,27.2375422660624
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2015,21.97372197769539,25.53055358611212,18.71340670251962
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.18749266122519,31.673690069495454,26.98159043957399
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2005,27.23205243913019,29.03724607751913,25.611970874863623
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.438070266314792,30.235810054587,26.91878681317585
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.39730637534579,27.8665886758032,21.4127361756665
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2020,25.8744106053844,29.580264999532506,22.83991473058175
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2005,23.91307599035254,26.62704781299125,21.41098989974812
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.12257358123241,30.26751257020754,25.921720594989452
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.06052173768433,31.65750207496903,26.63905198790049
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2014,26.779861432418578,29.28321778639132,24.53342135116567
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.92641329668354,31.200473300147692,26.87284421766236
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2014,29.61559677172026,31.9653421935149,27.8324425590335
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.79885631930247,28.466544238852247,21.918385808937842
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2014,20.0545078987769,22.86196029634945,17.71848177525868
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.64313123602733,31.376249688055392,25.81754615772862
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2014,26.812645993658414,30.62415981918028,23.85958063970894
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.76266923860352,30.513709686845132,24.82456254583523
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.81488411746903,31.703939924465217,26.07241743908808
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.93383945622249,27.702854866890604,22.13916154554387
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.669503480742954,30.3418005612825,24.9625046565823
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2005,24.7229639992652,27.65069581622915,21.65609585682603
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2005,28.61985117665628,30.23894122895687,27.20192559537345
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2005,29.58427817599044,32.16589160064292,27.14019815725909
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.825529895300427,30.79491366300715,26.801401608621227
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2012,27.39967243038764,31.50561248068613,23.5882600179172
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2020,29.33317795006965,31.9753825652207,27.016841671358772
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2018,26.597950833003697,28.87831272440824,23.74341659449456
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2021,27.01223599879739,29.51149577637991,24.514295612706842
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2004,27.750080567448897,30.5609965364598,25.501741858643477
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2016,26.396187544209038,29.883963433890493,22.831267333199907
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2018,24.56846903714354,28.143048511057263,21.45152804177994
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.365382679940797,31.3611886415448,25.00498297716458
+29,Summary exposure value,169,Central African Republic,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.576448728547426,32.30082241141261,27.224635728459717
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2004,25.46563873469396,28.72481807738917,22.28766545519989
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2010,27.7924451159199,30.85028007207919,25.513778791641162
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2002,29.978445204085542,31.81893424879481,28.3224720681712
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2018,29.54196535207101,31.60197920850371,27.801322814049538
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.980779250052468,32.0097890020979,25.99884195520541
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2018,29.7363573496293,32.62351667453617,27.545553293975022
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2018,24.726396414354078,27.52929842781756,22.38670486404306
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2018,25.001412028046488,28.14323395297112,22.0623876405628
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2018,24.26004862334121,27.513631819892797,21.44557825157086
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2006,24.75353870761514,28.489956019842772,21.81944901411889
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2018,24.30061304490026,27.51755833215766,21.261464398616837
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.990662365683477,30.895057642735768,27.210310659774027
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.02076664805704,30.88964085825973,27.02079787641877
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2010,24.86120785416684,28.22890010074825,21.77051959720622
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2018,22.506793669145868,26.12217819202453,18.67263794131464
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2005,26.356017858666007,28.777830006605047,23.62826046074142
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2001,25.470648981925958,28.677117427846138,22.549096058480718
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.86957045158332,30.80557258567751,26.8460823477705
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2012,29.74179795273198,32.64330821759681,27.60989157926873
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2008,27.295261825001223,29.13170624951093,25.663940691521148
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2021,25.803423376158207,29.50644579141955,22.74628945468845
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2020,26.627170556096182,30.273189847071656,22.99487218966962
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.34271536393964,30.20061505131078,26.809659725399438
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2008,24.101608565673068,26.869605072036368,21.60347464657485
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2002,26.7850684141223,29.07506049743167,24.42293084843757
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2012,30.24477275506456,33.29364237951699,27.30464332371849
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2012,22.69237057367284,25.7105118436578,19.8678211938159
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2008,27.75012735716856,30.02903509628175,25.684263865467088
+29,Summary exposure value,168,Angola,3,Both,22,All ages,169,All risk factors,3,Rate,2007,27.92417488293273,30.892007070027027,25.68839134897911
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.892490907773,31.470823052358238,26.64718744234159
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.49364908956703,31.073378537724512,26.29003445030193
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2008,24.35985635284148,27.40789236719371,21.34254296814779
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2012,27.47481632415359,29.634649712236783,25.42446578221765
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2008,28.380371485324268,30.06312192539603,26.923958310708564
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2012,25.41445982082473,28.52533730625088,22.69837741088376
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2008,29.358329261677753,31.964352005881157,26.85961761231555
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2012,25.58292739704815,28.38124831780542,22.75119170818179
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.38710410916962,30.27497305484705,26.84775480790212
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.00759925569418,30.50001415021703,26.22143280232162
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2011,27.530901792369527,29.45797183813913,25.91129827158362
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2003,27.211048333466497,29.0023568843243,25.616698713200332
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2015,24.483647768731228,28.04522244707725,21.39393979740881
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2007,25.42185368649171,28.60835787225813,22.47047495708806
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.01495703700046,32.07095202291856,24.2615834760267
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2019,26.823324020960694,30.57438972862419,23.18512304857249
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.388712182540846,31.373622639387488,23.68353415362284
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2007,25.07823101226201,28.50196491501775,22.09722264035813
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.828738782756467,30.770921065714717,26.794718291004987
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.52245634651236,33.09821227975933,26.47145749979446
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.04641874915368,31.28104411566699,26.8930684870136
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2013,27.72318582194831,29.632873927159597,25.991385640815
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2013,25.736299323313787,29.23121614897416,22.44477991075896
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.927634740829788,30.887187648759518,26.9756309950564
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.50896993649733,30.450748460414502,26.934719880222342
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2019,24.79482571870815,28.42272071556946,21.72520577792745
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2013,24.68811115883873,27.66505241981966,22.08056312580549
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2013,27.61095778717041,30.01763264704977,25.238061338642996
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2012,25.17620084407391,28.99658110789699,22.032436776834842
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.068528800915498,31.284354586771716,26.998811137038718
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.58578130362189,31.714736096719598,25.882301669777753
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.089752287001403,30.927628515647847,25.522513151586
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2018,30.332543340791005,33.222163870420914,28.109753625673427
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2013,24.288291013565612,27.4765446014193,21.297650921605698
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.741566543826668,30.41724916424093,27.36259293594226
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2013,24.29259363528196,27.620653927668748,21.25760944780685
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2018,29.06910663144191,32.73296423884154,25.419690169234382
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2018,22.99377339070055,26.61827414003047,20.0746363930887
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.58140273297602,31.28209649892384,26.25776024554621
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.12006996228274,31.02320062488056,25.576216707751808
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2018,27.438061110907892,29.698799898619,25.10602217605578
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2018,25.0725130341791,28.2247770745636,22.10672252634691
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2018,23.78153889923947,26.79322098338593,20.855353743597448
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.279401387820656,31.383848938407038,25.1773504929224
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2010,26.74215070084119,28.956603634130417,23.91514419069079
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2018,28.919990108205162,31.468162548430367,27.015320256121463
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.66376769877112,31.568538955832672,26.260234253198227
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2018,26.88243371851142,29.3988873362405,24.540002208890268
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.70125148979939,28.37209084157012,21.57008959703243
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.91682607836778,30.798850822071127,26.879575630136397
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.92577115401599,30.80673820725742,26.85655519970772
+29,Summary exposure value,170,Congo,3,Both,22,All ages,169,All risk factors,3,Rate,2021,26.837978839785233,30.57816139602336,23.13008883450875
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2016,24.75089508670685,28.194604822098253,21.64652125233471
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2004,26.61644534573903,28.973942335483088,24.082573531827308
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2006,27.02046130364368,29.32687238447116,24.87792814124277
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.06795523798603,31.18174185227014,27.22164972217072
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2006,30.16087093021425,32.43392660100826,28.386224658595786
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2006,26.48058087287286,30.036366969057447,23.40900863312866
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.00547142482712,30.09924163865828,26.052236037996767
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2006,20.325458762399528,23.28273877386481,18.21391769347654
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.97015948579227,32.64231938080834,27.60345299782013
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2006,27.34134570672866,30.87961139189599,24.492121296110682
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.23712872380449,30.758587979553532,25.595200551816312
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.19498720953569,31.695704447342386,26.9181686026347
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2002,29.393150133999928,32.01844419441957,27.431295649851577
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2006,25.8321257218246,28.66522638211318,23.24871943769125
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.626273135682418,30.83018346692369,26.57253965518932
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.88098143634895,29.924964926842563,26.022593133727252
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.664292563830067,30.66410276734825,27.03557827167907
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2016,25.130443403034832,28.09191617292045,22.54788295767655
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.229231513533858,31.25453831332915,23.45750262049253
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.40809596004139,30.3196911701057,26.821499129527922
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.789426111115752,30.379092060609146,25.52565230354633
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2011,24.41317564275942,27.324530976244738,21.8746437552366
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.63126664777599,30.58484279762488,24.731420034227188
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2011,27.64586375759134,29.98672605938833,25.573068532945946
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2016,24.45565043037013,27.7211782417554,21.41363309503807
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.51393639758048,31.220611669274973,26.268546405920628
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.824887976518188,30.466076687099058,27.3921495267563
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.89000073667581,30.83705728248704,25.134796371246047
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2011,24.31597215809842,27.4031582641085,21.45985390733729
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2015,26.86796866871173,29.148164157158867,24.2078724511841
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.67584637835926,30.33788112216237,27.27096370677099
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2011,28.620252397071113,31.46485094438208,26.1546340321825
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.36104604932666,31.44918519853745,25.47385610835261
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.2970222918647,31.796979784352292,27.273139153871988
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.459411014589197,30.223140710766,26.94431934545601
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2003,24.113194118804408,26.86766909645749,21.735461893594902
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2000,27.17927442821747,28.895819161802176,25.614785541674763
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2003,27.91672440609119,30.140109874538368,25.64212708324853
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.33321684732914,30.09072858890871,26.78765449586224
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.073224319327117,31.67538545510109,26.609351857789832
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2000,25.100082594642657,27.999057522070448,22.70175694824086
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2003,24.5132662967965,27.518063995622537,21.43546463971522
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2000,27.878504362310007,30.155258062218998,25.67370761730793
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.59460015208562,30.218815046707448,27.11724150668354
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.958573747672702,32.42163915785706,27.63801021107941
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2009,22.220284048369308,25.60681791096479,19.54047921160727
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.60525968665512,31.18192008050893,25.89012945578467
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2000,24.29684456685283,27.307746171266988,21.15215396863599
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2000,28.67760740697341,30.327548864423047,27.223998660996767
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2000,29.76677998723271,32.15777330005148,27.500398330573322
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.81701079494728,31.67027392600461,28.16473539618112
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2004,30.22873256575447,32.81360397512404,27.88374036919834
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.255508120468047,31.24482048020521,25.09152922161594
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.992385239807902,32.67242066941553,27.84359436278186
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2004,25.00929872105675,27.82367969273522,22.60610293964867
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2016,26.77934938964348,29.05561364432987,24.140590402769423
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2015,26.895700539459426,29.360075462672132,24.58808493760383
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2004,24.609759611731118,27.476397881006847,21.92467392916345
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2004,23.83297340293575,27.06700751562759,20.93885209590352
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2004,24.48241456986518,27.984850764215768,21.322388323967072
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2001,26.74640392642955,29.01754402776569,24.4704833379788
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.925379121278688,29.955254389666457,26.11135557721677
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2020,26.43418433084576,28.812788000739882,23.52977163147471
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.04226526967768,30.726519344856268,27.53129232182064
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2017,24.53696617198599,28.1699580971853,21.34858883841727
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2004,23.75735227832507,26.72417669172638,20.81535729165028
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2003,25.314254234980034,28.894028753363237,22.2274756814697
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2017,26.96799160881971,29.47819632897039,24.44722280021756
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.09145257589772,31.43624033188933,27.09481108193415
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2003,27.43967577214983,29.739640290436608,25.42355637122749
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.628283815538296,32.11832378776176,27.81529175604324
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.07768686569389,31.127975704686712,27.32355959626408
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2017,25.390488135798662,29.13618054921729,22.1583966201774
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2003,30.37133126549675,32.6599387652179,28.645858758183667
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2017,20.11908594139452,22.84032030586817,17.75467271784395
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2003,27.14695308947736,31.06615989987623,23.67554340913491
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.581227626543782,31.47189027279318,27.85311483864271
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2010,30.032229644258006,32.62101966061533,27.71690823658633
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.717220735009082,32.32009474360605,27.49189966693927
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2010,24.71741077693399,27.416322026659728,22.21965439741918
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2010,25.53861833741718,28.58050440582375,22.80031036080212
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2010,23.69551182761299,26.790039485797863,20.82300052741662
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2010,24.985430754613898,28.32420543660781,21.990227490421262
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.35276415142749,31.26833131855603,25.694495351882207
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2003,20.68999159916143,23.56423510677929,18.59763282618436
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2001,27.186527226156898,28.91819196584319,25.58656432320775
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.1297124860789,31.02273365000347,24.05843115184829
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2003,30.25996695760541,32.762024732010445,27.95604147220947
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2001,30.07149897494339,31.90985228670859,28.418202974528263
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.55108165485664,30.543449428872037,24.61821978229514
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2003,26.9187025699068,30.38296013357062,24.1335427102131
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2012,26.747873293043963,29.230892921855812,24.39844726977632
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.641126167610487,32.48680993378533,27.53928341672519
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.55016990792035,30.97910771396134,25.999058563586768
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2017,29.30582878789168,32.229382999165864,26.57616195498035
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2003,29.161033546671337,31.83106168810529,26.94389119314661
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2017,25.4800206043106,28.33111921511834,22.619384042757808
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.78219600474813,33.37538325932776,26.753973259600688
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2003,25.531901610714442,28.18823748461768,22.78853526034667
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2017,27.76676711007497,30.41765326678701,25.001590132269808
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2003,28.67317373208443,30.80965451447721,26.742847640299377
+29,Summary exposure value,173,Gabon,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.63780261022541,28.12652300703855,21.38435581010684
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2010,29.1411383431683,30.95064689250452,27.58400361960911
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.980624014258527,32.56291308178866,27.48245394529369
+29,Summary exposure value,175,Burundi,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.001750129994758,31.13746526488993,26.977564475776187
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2010,22.70045517798021,26.015034980296807,19.53980975977733
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.96166213147288,32.647203989762104,27.825403906650394
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2001,26.86466879145002,29.84416867501282,24.13194917999686
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2001,25.50773994658323,28.43192406803962,22.85598502416072
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2001,24.04170323759732,27.16904866666881,21.23355398884194
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2001,24.24330865289284,27.6204036001243,21.14648592355523
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.794648023377878,30.512795189590403,27.142358328475506
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2001,24.22850497522685,27.259250255189,21.45850406821818
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.70093486345016,31.636740476151882,25.52095111774812
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2021,26.62387807275693,30.81215785349351,22.77362984181028
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.82593503217241,30.91291828628427,27.19054033581626
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2019,25.21405338326793,28.28580154644735,22.69466440013729
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.80644300582536,30.434728789191862,25.331920028541223
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.772511827090057,29.702087160349937,25.99507405987215
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.271029966977387,30.37813209887556,24.255529550143528
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2019,24.59495286026264,27.86097120158793,21.56625433804774
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.83652303660666,30.477064480473192,27.36562197175792
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.47830964845817,32.15448068851604,27.46777465057279
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.813621527950477,30.820169580008983,24.88772555817622
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.68222761693135,31.570290486166492,27.93444602508215
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2007,30.12891553826535,32.67305537738178,27.696810758166063
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.88892989329328,32.52078150603302,27.6799598926016
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2007,24.47569406005253,27.11372766391375,22.0844633779676
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2007,25.272554405869457,28.13587275023964,22.61686122440745
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2018,29.16991194655883,31.54229248366649,27.19429584412404
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2007,21.696293322205822,24.60432664835947,19.19161993947182
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2007,24.50481709150587,27.977828737087528,21.463663908484552
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.03563227133374,30.76977681396181,27.51931565216913
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2013,29.5554406314761,31.499199016367292,27.84886857554102
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2007,21.9356594049683,25.03142518525543,19.13445377548443
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2018,29.60938543179474,32.1122013187273,27.7960299690982
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2018,25.968923613538603,30.07326408508395,22.64031730906534
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2015,30.065665481487642,33.00699900572015,27.87618781565716
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2015,29.526727354021247,32.82928020911306,26.36391496890121
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2018,20.16477777208953,22.98217321624718,17.79431262282665
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2015,23.24191676149133,26.80473993385813,20.208148037015413
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.664433211949657,31.26064094763641,26.537356610323098
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.44676518096304,29.585658934330812,25.267503609656337
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2015,25.78509304362246,28.7941198859767,22.91337661067869
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2015,24.468135985209198,27.39520011305424,21.61066390702812
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.01556136925688,30.09176535452836,26.080874484723072
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.483484394584877,30.9722312202615,26.59129442520369
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2017,28.65757079565941,30.70187153524439,27.028321283909168
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.929840931304827,30.013733915527407,26.00927869452445
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.08262830406733,31.15650741072318,24.665221491395968
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.77677062720661,30.78753910316734,24.50908989838418
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.40198419878869,30.15695546188449,26.892638088611946
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2016,30.200438231031402,33.12967567708826,28.02499705714898
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.536430322830036,31.55795773499343,27.817610422530446
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2009,26.802924973495166,29.20564472446181,24.57861269219438
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.973882093915538,31.17492533583997,27.093560625545322
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.90400418696092,32.18491488573842,28.164933851326463
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2009,24.8378958585192,28.45246299367954,21.99919831587647
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2009,20.13833071692616,23.19261964849807,17.88935006960119
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.23171097568153,32.90046147741714,25.961675993670593
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2009,29.67188967302127,32.466715364090994,27.187812181611797
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2009,27.328376806812983,30.924203557007,24.47879967543418
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.055113393965158,30.647457908422947,25.307058670887876
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.58021524032004,30.5336345165097,27.00653471560045
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.37149366042009,31.948015016569343,27.44232980493973
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.77408597847709,31.469710239450038,26.44500591521675
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2009,25.581810894430618,28.23177418784473,22.8438557968625
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2009,28.25594239470356,30.509859841417757,25.986300652456563
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2019,26.5642137976427,28.86729420493015,23.6996153922264
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2015,29.05233933137648,31.30764739476829,27.043824148848252
+29,Summary exposure value,172,Equatorial Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.7091268585937,32.62698732799166,25.09787582779432
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2015,29.60336711055585,32.01432340669912,27.79344054514279
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2015,25.89022312197009,29.81508671283742,22.59475002462654
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.19965524671224,27.7109942370232,21.02609587165145
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2015,20.070135810597183,22.89969663076738,17.71536702697367
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.55403853515855,31.363216942093867,25.78311778152073
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.00576475050106,30.84026201768182,24.04467094112135
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2015,27.89396458923553,30.70357996063013,25.24959597835958
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2015,28.98345079058176,31.88150882576466,26.232004548703642
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2007,26.484914827718107,28.890881948547296,23.79262121279741
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.829830726252382,30.91274154680992,27.13763454675231
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2013,29.92489638600021,32.62006042646094,27.511073091340787
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2013,29.63576411401959,32.35291326290366,27.43997904401591
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2013,24.69213359569428,27.38200244878295,22.40627502772384
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.89059012723663,31.13693975949936,26.95276396662662
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2013,25.37877354189498,28.311395593346,22.554541908951702
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2013,23.38094581275206,26.519634144734887,20.68589748861149
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2013,24.5758723691307,27.853805540783387,21.548253688891332
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2013,29.09328972286747,30.998302938610152,27.39726855875619
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2013,22.645053964492202,26.173520564867932,19.271195971603632
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2010,30.54336706676986,33.63134390493222,27.67980200029299
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2010,22.8492681303884,25.866563793299918,19.9405364347719
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2010,28.88631859497265,31.23650945786413,26.899359095973992
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2010,27.730845123582647,29.781830888199963,25.91787893861851
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2010,26.50305645496166,29.43400141882052,23.89372111715396
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2012,29.68692464748695,32.00721796778342,27.91048522823611
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.77949458721318,32.24167644934725,27.78281445781871
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2010,26.67596912336742,29.24837293777125,23.964245832160717
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2012,25.0552656021377,28.728010281561637,22.11966600482843
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2012,20.08119875261123,23.003013124905262,17.81729502638224
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.876040086494783,31.72340940137557,26.175521827624593
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2012,26.87926895326211,30.528130073193,24.04631403989066
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.023764928911252,27.12343164712083,20.890295444864122
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.477489561677473,30.999663489725993,25.81717667788357
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.730480580988697,30.77663046025492,27.114343098826133
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2012,28.60387575820711,31.40294418416622,25.953362775606497
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2020,29.456650155857574,31.59060281279544,27.45164235557066
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2012,24.92669450875204,27.8087185248223,22.15429636853066
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2012,27.85645889754781,30.29792106297664,25.33937516078928
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2013,26.74931825019892,29.003227513318098,23.98032237337804
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.584427293908128,31.62871708570497,27.75339010742428
+29,Summary exposure value,177,Djibouti,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.04954062916164,31.13393490937428,24.85280544470403
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2004,30.63856625452692,33.63166217377131,28.295601074456023
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2004,22.92724914912861,26.01527108359664,20.08397820380202
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.80440956481661,27.76998397064625,22.240831072771968
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.54916896267544,30.00389942998978,25.28885641067887
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.72627316736559,30.819534419138062,26.81239353399349
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.769085499980473,30.693818209774072,24.933148887475788
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2004,27.83901540964061,29.729314656095053,26.3325516769793
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2004,26.33674093923495,29.16764342657874,23.702273677542752
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2014,24.00450648827681,27.133058076431,21.09999457784889
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2004,27.69357712811144,30.01939969993125,25.01039673814856
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2014,28.720099432789382,30.39365328842958,27.2987272109878
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2014,27.73687120392459,30.73855189309429,25.117817158437088
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.509959132942942,32.407283037408966,26.795105449890738
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.67756081958539,32.44806978307136,27.540858877301076
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2016,24.693647345121832,27.653805003360088,22.402221681033012
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2004,28.18007609635982,30.52137854561769,26.370967431404367
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2016,25.46126603015769,28.559008672890666,22.4927855350554
+29,Summary exposure value,179,Ethiopia,3,Both,22,All ages,169,All risk factors,3,Rate,2006,27.227355475084007,29.009331694695277,25.6115651690395
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2016,24.18439300510738,27.30095308760544,21.33944204785008
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2016,24.65816236048511,27.80249129376587,21.71103666816431
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.09430840256707,31.00619216100163,27.407768853434376
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2016,22.55389412645438,26.05753596291882,18.971143763626642
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2020,30.440033997463217,33.327449395612355,28.276864976626708
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.91393248317173,27.95768420364305,22.24598970658086
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2021,25.29827160546364,29.00114088736706,21.801588459912182
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.902561505878932,27.83625968422288,22.28721973840432
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2001,25.169472940548637,28.6785993857962,22.02164038859208
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.72873733784197,31.90966656283793,25.67423164994091
+29,Summary exposure value,178,Eritrea,3,Both,22,All ages,169,All risk factors,3,Rate,2021,26.52871921421463,28.97168217176176,23.52009611114953
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2016,29.442401354496628,32.97024062675375,26.19568688958993
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2020,26.87041070042518,29.30726260737217,24.5342856218834
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.8852724067932,31.93884816881462,25.82895087977209
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.8421378607333,32.78342483275329,27.650638117420552
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2019,24.77253538098323,27.73778095400199,22.28959043472603
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2019,25.30914714937192,28.57710951846732,22.312050988341632
+29,Summary exposure value,187,Somalia,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.432813063571512,30.24692385607714,26.89528919359132
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2001,30.09289599166795,33.09480591458975,27.72493170281623
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2001,22.95027662327519,26.03501184932621,20.19693662621632
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2019,24.44787258237644,27.7632038873421,21.573285414426397
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2019,24.63089663281633,27.84920084505528,21.56845114683739
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.92648577829592,30.85474893753571,27.043138886045693
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2019,22.78292919830931,26.29182020430285,18.957864895279748
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.57164369616675,30.548292721292018,26.73489766445612
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.52152667427457,32.32651461075315,27.48583277584044
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2001,27.762065573391283,29.605246526125377,26.22950260928937
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2001,26.50467208811753,29.251326997379863,23.98662369363679
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.179208381190353,30.41352168320919,25.81956136659545
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.69065613038754,30.32864584158233,25.048879839981307
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.16923014930408,30.28154453142079,24.19525901437826
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.78921372308659,28.04749017342075,21.74971043157739
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.78491122588322,30.441079919804547,27.3572871812503
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.69274597232596,30.771797614777867,24.78701087037673
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.060426267201922,30.405116858463,26.20483172351884
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2021,27.94227062279019,30.59882109313176,25.480105024091408
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2020,29.72381233936485,32.76349580575085,27.48978610412135
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2013,29.84848654004854,32.76219589115462,27.67484399760646
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2007,23.443330238387432,26.95640354439044,20.54063621739195
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2021,20.00569084118133,22.88804578779595,17.612807275452962
+29,Summary exposure value,176,Comoros,3,Both,22,All ages,169,All risk factors,3,Rate,2004,25.84378392526524,29.14864448418062,22.90424060506607
+29,Summary exposure value,196,South Africa,3,Both,22,All ages,169,All risk factors,3,Rate,2006,23.87896312850227,26.553420932603476,21.40906924814653
+29,Summary exposure value,200,Benin,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.0247506729926,30.22331466345597,25.76128293743404
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2001,27.72213704673801,30.067486727643473,25.76214669514918
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.99242323308518,31.60110361262073,26.521897691394543
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2006,24.41580009744902,27.44773032475547,21.279839279043692
+29,Summary exposure value,181,Madagascar,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.47483399633733,31.57036524235969,27.41587368645966
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2006,28.534524942180152,30.181621853329737,27.082934869385777
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2006,29.55946098049271,32.09324121956096,27.08691222604812
+29,Summary exposure value,205,Côte d'Ivoire,3,Both,22,All ages,169,All risk factors,3,Rate,2021,27.220857597151483,30.384978988713517,24.13598515383578
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2016,23.15862967303512,26.737098794157482,20.15561261840505
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.59237399442995,27.46927396984178,22.08287031512054
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.97031172836592,28.15579651082703,21.947125071461702
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.53376004395891,27.922992841405993,21.57134695927284
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2020,24.33438107286906,27.65992835303151,21.27919007412144
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.79794691867644,30.69254951299294,26.946418928206988
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2016,28.68836204175093,31.28222407688803,26.630387969026348
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2016,27.55824982082447,29.74192020261916,25.422408961158858
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2020,22.66564910989997,26.176718810551957,18.78340614459161
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2016,25.8474338224252,28.857592278254092,22.93573093595386
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2016,24.50162218003454,27.43593923019199,21.643942795425968
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2013,30.03659008626556,33.1239109256855,27.04056544491148
+29,Summary exposure value,209,Guinea-Bissau,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.78209476357007,28.06211594201234,21.82087906928368
+29,Summary exposure value,185,Rwanda,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.550570751139848,31.79215118225599,25.46360375289319
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2007,30.78177035612537,33.75994999288523,28.29830995655333
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2007,23.19124212727941,26.27245169718581,20.22589853671149
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2007,28.83442386919004,31.064887982391472,26.80622936790924
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2007,27.76818454503595,29.700700429806798,26.0788947723136
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2007,25.876263055855542,28.78431624941944,23.27055911517262
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2007,27.141999576289326,29.726811535472418,24.43076389956872
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2019,30.47580845644273,33.3422913642749,28.26925528651637
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2007,26.91955614546054,29.33960629180573,24.776899770118778
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.798724384535213,32.57057210099673,25.29894827732837
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.765255962542508,31.65971723200836,26.034260719549728
+29,Summary exposure value,190,Uganda,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.764421657819902,32.69002792192013,27.58852555992949
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2021,27.42268217440263,31.39098998183435,24.10546060767783
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2021,27.20927188338007,30.276718330406272,24.06863990655801
+29,Summary exposure value,180,Kenya,3,Both,22,All ages,169,All risk factors,3,Rate,2004,27.253485898018496,29.63991796840466,25.17168712879629
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.52483262309003,32.66229832734946,26.617673620438172
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2021,25.96486510944407,28.95385440293682,23.11424644116348
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.097463718839226,30.73847532150281,25.161053226678483
+29,Summary exposure value,213,Niger,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.959099254009068,30.65580646426831,27.49511232423242
+29,Summary exposure value,217,Sierra Leone,3,Both,22,All ages,169,All risk factors,3,Rate,2021,27.5732367566701,30.62441086882578,24.59191726782079
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.07134743782269,31.06137261153789,27.32837618391147
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2020,29.305796133685156,31.81405339232934,27.29626913785882
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2001,30.48310798324699,32.7389255338574,28.72295658194599
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2001,26.568272434214553,30.36687266446474,23.217936089443832
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2001,20.970624205368,23.85737036114432,18.87329383973023
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2001,30.27819331598907,32.695204370280976,27.905013150275458
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2001,26.34247524272737,29.72022756271212,23.50925255519446
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.712904756412872,31.048100114500738,26.267107419555742
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2001,29.097587934155598,31.60312303728573,26.891682630452042
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2001,25.303921289813292,27.95876223370859,22.6700925649374
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2001,28.757832882398983,30.82582592558683,26.898831176991322
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2013,22.94514210805071,26.188049574292823,20.07033100790488
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2013,28.71493035538571,31.260643900352118,26.73420434823081
+29,Summary exposure value,182,Malawi,3,Both,22,All ages,169,All risk factors,3,Rate,2021,30.437949134387836,33.34091101935624,28.307703911667698
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2013,27.592382192506747,29.71669204018475,25.56898430172326
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2013,25.85536234597402,28.916192216133503,23.15513858800696
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2013,25.24430869306233,28.14457751950561,22.45970847336557
+29,Summary exposure value,194,Lesotho,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.42491788925679,27.264184764652573,22.0261474359215
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2007,29.020942391807107,31.190180772246617,27.189919947518533
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2019,29.11822764187627,32.748046650327325,25.56741257119552
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2020,22.59354968713242,25.99027981789846,19.70548814818498
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2020,29.703944076961157,32.09758479157801,27.76269418985408
+29,Summary exposure value,184,Mozambique,3,Both,22,All ages,169,All risk factors,3,Rate,2004,29.05708009386558,31.112564619971078,27.308913810832202
+29,Summary exposure value,189,United Republic of Tanzania,3,Both,22,All ages,169,All risk factors,3,Rate,2004,30.28383386200057,32.57508189931417,28.51594921970404
+29,Summary exposure value,198,Zimbabwe,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.76276876182768,27.975413668872378,21.772748464225188
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2004,26.63306636888874,30.366418413682737,23.37843617458635
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2004,20.48762981718979,23.30464363667044,18.42932991741486
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2004,30.2094890993659,32.72363657277053,27.868579623871497
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2004,27.204701368027788,30.711520713846703,24.446701484382878
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.40045855768208,31.077667866639903,25.96934255127063
+29,Summary exposure value,193,Botswana,3,Both,22,All ages,169,All risk factors,3,Rate,2020,25.67716597086216,29.50173975058584,22.30412656294533
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2019,23.69849762561534,27.340857157879327,20.692376160873412
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2019,28.50948445114181,31.192544017750517,26.047917894211547
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2019,27.50365011684453,29.81581223001541,25.18176345495925
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2019,25.064343580581287,28.35997126711166,22.07684384291707
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2019,23.6060163859833,26.65224152741243,20.4979031014178
+29,Summary exposure value,203,Cabo Verde,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.425457011092842,27.82803711823643,21.35261810811332
+29,Summary exposure value,207,Ghana,3,Both,22,All ages,169,All risk factors,3,Rate,2021,24.69105869324021,28.031816707115908,21.625476689569968
+29,Summary exposure value,211,Mali,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.06389479231319,30.98568512986637,27.12108930273185
+29,Summary exposure value,215,Sao Tome and Principe,3,Both,22,All ages,169,All risk factors,3,Rate,2021,22.80058632146315,26.21214007898936,18.89667397044341
+29,Summary exposure value,197,Eswatini,3,Both,22,All ages,169,All risk factors,3,Rate,2020,20.05371939609395,22.9790938386268,17.73415817607784
+29,Summary exposure value,191,Zambia,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.527309706874732,32.134914812726876,25.08706516035145
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.481607537566884,29.762324798531196,25.1225053103077
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2020,25.398284110408248,28.549203669382972,22.36314129820127
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2020,23.89355238404735,26.91861198393017,20.92193863117158
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.936515893677978,31.53606455900535,27.0532523282368
+29,Summary exposure value,195,Namibia,3,Both,22,All ages,169,All risk factors,3,Rate,2021,22.04614248655915,25.221623920980342,19.2923884924243
+29,Summary exposure value,201,Burkina Faso,3,Both,22,All ages,169,All risk factors,3,Rate,2020,28.48531337772931,31.400597284518287,25.847659558530978
+29,Summary exposure value,202,Cameroon,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.25689490810407,31.303360465704426,24.04006847901176
+29,Summary exposure value,206,Gambia,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.32222613183584,30.35618607032627,24.199697174291877
+29,Summary exposure value,210,Liberia,3,Both,22,All ages,169,All risk factors,3,Rate,2020,29.38300578477422,32.467050092215636,26.535048019170947
+29,Summary exposure value,214,Nigeria,3,Both,22,All ages,169,All risk factors,3,Rate,2020,25.666152424870443,28.65590550379092,22.74915511255776
+29,Summary exposure value,218,Togo,3,Both,22,All ages,169,All risk factors,3,Rate,2020,27.68940961996382,30.33694974208435,24.79396351636841
+29,Summary exposure value,204,Chad,3,Both,22,All ages,169,All risk factors,3,Rate,2021,28.637345229733967,31.38615907919144,26.24042410769643
+29,Summary exposure value,208,Guinea,3,Both,22,All ages,169,All risk factors,3,Rate,2021,27.53898704012628,29.84428463420278,25.165155233648118
+29,Summary exposure value,212,Mauritania,3,Both,22,All ages,169,All risk factors,3,Rate,2021,25.693900507905422,28.88924572229361,22.81102980811354
+29,Summary exposure value,216,Senegal,3,Both,22,All ages,169,All risk factors,3,Rate,2021,23.89092882078313,26.9576451835843,20.81425369663213
+29,Summary exposure value,435,South Sudan,3,Both,22,All ages,169,All risk factors,3,Rate,2021,29.09159675173674,31.71789265103903,27.137929814348283
