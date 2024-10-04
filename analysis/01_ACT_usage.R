@@ -1,6 +1,7 @@
 library(tidyverse)
 library(ggpubr)
 library(MetBrewer)
+library(zoo)
 
 ## ----------------------------------------------------o
 ## 1. Pull in drug use covariates since 2019 from PMI --------------
@@ -215,9 +216,9 @@ policy <- policy  |>
          drug = gsub("\\+nonACT", "", drug),
          drug = gsub("AL, AL", "AL", drug),
          drug = gsub("AL, AL\\+AM", "AL", drug),
-         drug = ifelse(drug=="AL, AS", "", drug),
+         drug = ifelse(drug=="AL, AS", "AL", drug),
          drug = ifelse(drug=="SP", "nonACT", drug),
-         drug = ifelse(drug=="AS", "", drug),
+         drug = ifelse(drug=="AS", "AS", drug),
          drug = gsub("nonACT\\+nonACT", "nonACT", drug),
   )
 
@@ -278,6 +279,7 @@ gf_pol <- full3 %>%
   complete(year = c(2000:2024),
            iso3c = unique(full2$iso3c)) %>%
   arrange(iso3c, year) %>%
+  fill(matches("_interp"), .direction = "up") %>%
   right_join(gf_pol, by = c("year", "iso3c"))
 
 ## If procurement data missing, set pre-ACT policy values to be zero.
@@ -289,28 +291,8 @@ gf_pol_interp <- gf_pol %>%
 gf_pol_interp <- gf_pol_interp %>%
   filter(name_0.x!="Tanzania, Zanzibar") %>%
   group_by(iso3c) %>%
-  mutate(drug_policy_simple = ifelse(drug_policy %in% c("AL","AS+AQ","nonACT", "AS+MQ","","NO DATA","AS+SP"),
+  mutate(drug_policy_simple = ifelse(drug_policy %in% c("AL","AS+AQ","nonACT", "AS+MQ","","NO DATA","AS+SP", "AS"),
                                      drug_policy,"MFT"),
-         AL_2005 = AL_interp[year==2005],
-         ASAQ_2005 = ASAQ_interp[year==2005],
-         ASMQ_2005 = ASMQ_interp[year==2005],
-         ASPY_2005 = ASPY_interp[year==2005],
-         DHAPPQ_2005 = DHAPPQ_interp[year==2005],
-         ASSP_2005 = ASSP_interp[year==2005],
-         AL_interp = ifelse(is.na(AL_interp) & AL_2005>0.9 & year<2005 & drug_policy=="AL", AL_2005, AL_interp),
-         ASAQ_interp = ifelse(is.na(ASAQ_interp) & ASAQ_2005>0.9 & year<2005 & drug_policy=="AL", ASAQ_2005, ASAQ_interp),
-         ASMQ_interp = ifelse(is.na(ASMQ_interp) & ASMQ_2005>0.9 & year<2005 & drug_policy=="AL", ASMQ_2005, ASMQ_interp),
-         ASPY_interp = ifelse(is.na(ASPY_interp) & ASPY_2005>0.9 & year<2005 & drug_policy=="AL", ASPY_2005, ASPY_interp),
-         DHAPPQ_interp = ifelse(is.na(DHAPPQ_interp) & DHAPPQ_2005>0.9 & year<2005 & drug_policy=="AL", DHAPPQ_2005, DHAPPQ_interp),
-         ASSP_interp = ifelse(is.na(ASSP_interp) & ASSP_2005>0.9 & year<2005 & drug_policy=="AL", ASSP_2005, ASSP_interp),
-         ASAQ_interp = ifelse(is.na(ASAQ_interp) & ASAQ_2005>0.9 & year<2005 & drug_policy=="AS+AQ", ASAQ_2005, ASAQ_interp),
-         AL_interp = ifelse(is.na(AL_interp) & AL_2005>0.9 & year<2005 & drug_policy=="AS+AQ", AL_2005, AL_interp),
-         ASMQ_interp = ifelse(is.na(ASMQ_interp) & ASMQ_2005>0.9 & year<2005 & drug_policy=="AS+AQ", ASMQ_2005, ASMQ_interp),
-         ASPY_interp = ifelse(is.na(ASPY_interp) & ASPY_2005>0.9 & year<2005 & drug_policy=="AS+AQ", ASPY_2005, ASPY_interp),
-         DHAPPQ_interp = ifelse(is.na(DHAPPQ_interp) & DHAPPQ_2005>0.9 & year<2005 & drug_policy=="AS+AQ", DHAPPQ_2005, DHAPPQ_interp),
-         ASSP_interp = ifelse(is.na(ASSP_interp) & ASSP_2005>0.9 & year<2005 & drug_policy=="AS+AQ", ASSP_2005, ASSP_interp),
-         AL_interp = ifelse(is.na(AL_interp) & AL_2005>0.9 & year<2005 & drug_policy_simple=="MFT", AL_2005, AL_interp),
-         ASAQ_interp = ifelse(is.na(ASAQ_interp) & ASAQ_2005>0.9 & year<2005 & drug_policy_simple=="MFT", ASAQ_2005, ASAQ_interp),
          pol_year = paste0(year, "_", drug_policy),
          ) %>%
          mutate(drug_policy_simple = replace(drug_policy_simple,drug_policy_simple=="", "NO DATA" ))
@@ -353,6 +335,7 @@ p <-ggplot(gf_pol_plot2,
                                "AS+AQ" = "yellow1",
                                "AL" = "lightblue",
                                "AS+SP" = "purple1",
+                               "AS" = "pink1",
                                "NO DATA" = "white")) +
   
   # Override the alpha in the legend to make the legend fill visible
@@ -387,11 +370,11 @@ gf_pol_interp2 <- gf_pol_interp %>%
 gf_pol_interp2 <- gf_pol_interp2 %>%
   group_by(year) %>%
   mutate(AL_interp2 = replace(AL_interp2, 
-                              (is.na(AL) & iso3c == "COG"),
+                              (is.na(AL) & iso3c == "COG" & drug_policy_simple!="nonACT"),
                               mean(AL_interp2[iso3c %in% c("CMR", "COD", "GAB") & 
                                                year == cur_group()$year], na.rm = TRUE)),
          ASAQ_interp2 = replace(ASAQ_interp2, 
-                              (is.na(ASAQ) & iso3c == "COG"),
+                              (is.na(ASAQ) & iso3c == "COG" & drug_policy_simple!="nonACT"),
                               mean(ASAQ_interp2[(iso3c == "CMR" | iso3c == "COD" | iso3c == "GAB") & 
                                                year == cur_group()$year], na.rm = TRUE))) %>%
          ungroup()
@@ -408,29 +391,34 @@ gf_pol_interp2 <- gf_pol_interp2 %>%
                                                     year == cur_group()$year], na.rm = TRUE))) %>%
   ungroup()
 
-# Mali – gaps in procurement data during MFT – sudden change from ASAQ to AL. 
+# Mali – gaps in procurement data during MFT – uncertain time of change from ASAQ to AL. 
 # Implement linear interpolation.
 gf_pol_interp2 <- gf_pol_interp2 %>%
-  mutate(x = if_else(is.na(x), zoo::na.approx(x, na.rm = FALSE), x)) %>%
+  mutate(AL_interp2 = replace(AL_interp2, iso3c=="MLI" & year>=2010 & year<=2013, NA),
+         ASAQ_interp2 = replace(ASAQ_interp2, iso3c=="MLI" & year>=2010 & year<=2013, NA),
+         AL_interp2 = if_else(is.na(AL_interp2 & iso3c=="MLI" & year>=2010 & year<=2013), 
+                   zoo::na.approx(AL_interp2, na.rm = FALSE), AL_interp2),
+         ASAQ_interp2 = if_else(is.na(ASAQ_interp2 & iso3c=="MLI" & year>=2010 & year<=2013), 
+                               zoo::na.approx(ASAQ_interp2, na.rm = FALSE), ASAQ_interp2))
+
+#### Tidy it all up and use the new interp2 values.
+# To do: renormalise all the 'interp' values as some will not sum to 1.
+gf_pol_interp2 <- gf_pol_interp2 %>%
+  select(-c(AL_interp, ASAQ_interp, ASSP_interp, matches("_2005"))) %>%
+  rename_with(~ gsub("interp2", "interp", .x), .cols = matches("interp2")) %>%
+  select(iso3c, name_0, year, pol_year, drug_policy_simple, matches("_interp"), AL:ASMQ) %>%
+  rename_with(~ paste0(.x, "_raw"), .cols = AL:ASMQ) %>%
+  # Add a new column 'total_gf_drugs' which sums across all columns that match "_interp"
+  rowwise() %>%
+  mutate(total_gf_drugs = sum(across(matches("_interp")), na.rm = TRUE)) %>%
+  # Apply the transformation only if total_gf_drugs > 0
+  mutate(across(matches("_interp"), ~ ifelse(total_gf_drugs > 0, .x / total_gf_drugs, 0))) %>%
   ungroup()
 
-# Fill in policy gaps: Eswatini.
-# Mauritania – check as ASAQ used exclusively throughout MFT years, then less during ASAQ policy?
-# To do: renormalise all the 'interp' values as some will not sum to 1.
 
-ggplot(gf_pol_interp2 |> filter(iso3c=="GNQ")) +
-  geom_point(aes(x=year, y=AL_interp2, col="red")) +
-  geom_point(aes(x=year, y=AL_interp))
-  
 
 
 gf_pol_plot3 <- gf_pol_interp2 %>% 
-  select(-c(AL_interp, ASAQ_interp, ASSP_interp)) %>%
-  rename_with(~ gsub("interp2", "interp", .x), 
-              .cols = matches("interp2")) %>%
-  select(iso3c, name_0, year, pol_year, drug_policy_simple, matches("_interp"), AL:ASMQ) %>%
-  rename_with(~ paste0(.x, "_raw"), 
-              .cols = AL:ASMQ) %>%
   pivot_longer(cols = c(matches("interp"), AL_raw:ASMQ_raw), 
                names_to = c("drug","data_type"), 
                values_to = c("proportion_drug"),
@@ -470,3 +458,5 @@ p2 <-ggplot(gf_pol_plot3,
   ylab("proportion of drug purchases, GF") +
   ylim(c(-0.1, 1.1))
 p2
+ggsave(filename = "analysis/plots/policy_vs_use_update.tiff", plot=p2, compression="lzw",
+       width = 13, height = 7)  
