@@ -2,6 +2,8 @@ library(tidyverse)
 library(ggpubr)
 library(MetBrewer)
 library(zoo)
+# source("R/utils.R") ## don't need when compiled as a package
+# library(here)
 
 ## ----------------------------------------------------o
 ## 1. Pull in drug use covariates since 2019 from PMI --------------
@@ -121,7 +123,7 @@ full2 <- full2 %>%
   mutate(name_0 = countrycode::countrycode(iso3c, "iso3c", "country.name"))
   
 # save this out for Lucy to look at against drug policies
-#saveRDS(full2, "analysis/data-derived/ACT_usage_no_interpolation_2000-2022.rds")
+saveRDS(full2, "analysis/data-derived/ACT_usage_no_interpolation_2000-2022.rds")
 
 # make a summary plot
 act_gg <- full2 %>% pivot_longer(AL:ASMQ) %>% 
@@ -143,8 +145,9 @@ act_gg <- full2 %>% pivot_longer(AL:ASMQ) %>%
   xlab("Year") +
   ylab("Proportion of Drug Volumes") + 
   theme(panel.spacing = unit(1, "lines"))
-#save_figs("act_usage", act_gg, width = 14, height = 16)
+save_figs("act_usage", act_gg, width = 14, height = 16)
 
+# Initial interpolation (to be adjusted later based on drug policies)
 # it looks like we can probability just interpolate
 ## use downup as we assume some time delay before distributing drugs.
 full3 <- full2 %>% group_by(iso3c) %>% fill(AL:ASMQ, .direction = "downup") %>% pivot_longer(AL:ASMQ) %>% 
@@ -171,7 +174,7 @@ act_interp_gg <- full3 %>% pivot_longer(AL:DHAPPQ) %>%
   xlab("Year") +
   ylab("Proportion of Drug Volumes Interpolated") + 
   theme(panel.spacing = unit(1, "lines"))
-#save_figs("act_interp_usage", act_interp_gg, width = 14, height = 16)
+save_figs("act_interp_usage", act_interp_gg, width = 14, height = 16)
 
 ## ----------------------------------------------------o
 ## 3. Read in MAP admin map and make consistent --------------
@@ -189,7 +192,7 @@ dg <- admin0 %>% sf::st_drop_geometry() %>%
   complete(year = 2000:2022) 
 
 # save
-#saveRDS(dg, "analysis/data-derived/ACT_usage_2000-2022.rds")
+saveRDS(dg, "analysis/data-derived/ACT_usage_first_interpolation_2000-2022.rds")
 
 
 ## ----------------------------------------------------o
@@ -222,8 +225,8 @@ policy <- policy  |>
          drug = gsub("nonACT\\+nonACT", "nonACT", drug),
   )
 
-# make a summary plot
-policy %>%
+# make a summary plot for a first look
+pol_plot1 <- policy %>%
   mutate(dummy =1) %>%
   ggplot(aes(year, dummy, fill = drug, color = drug)) +
   geom_col(na.rm = TRUE) +
@@ -263,8 +266,8 @@ gf_pol2 <-  ggplot(gf_pol_plot,aes(x=drug_policy, y=proportion_drug, fill=drug))
   geom_point(aes(colour = drug), position = position_dodge(width = .75)) +
   theme_bw() +
   scale_x_discrete(guide = guide_axis(angle = 90))
-# ggsave(gf_pol2, file="analysis/plots/act_policy_vs_gf_purchase.tiff", compression="lzw",
-#        width=7, height=7)
+ggsave(gf_pol2, file="analysis/plots/summary_act_policy_vs_median_gf_purchase.tiff", compression="lzw",
+       width=7, height=7)
 
 # merge with OJ's interpolation as well
 gf_pol <- full3 %>%
@@ -282,7 +285,7 @@ gf_pol <- full3 %>%
   fill(matches("_interp"), .direction = "up") %>%
   right_join(gf_pol, by = c("year", "iso3c"))
 
-## If procurement data missing, set pre-ACT policy values to be zero.
+## Set pre-ACT policy values to be zero (there is no procurement data at this time anyway.
 gf_pol_interp <- gf_pol %>%
   mutate(across(AL_interp:DHAPPQ_interp, ~replace(., drug_policy=="nonACT", 0)))
 ##### if drug procurement data is missing for a year and drug data before or after
@@ -293,7 +296,6 @@ gf_pol_interp <- gf_pol_interp %>%
   group_by(iso3c) %>%
   mutate(drug_policy_simple = ifelse(drug_policy %in% c("AL","AS+AQ","nonACT", "AS+MQ","","NO DATA","AS+SP", "AS"),
                                      drug_policy,"MFT"),
-         pol_year = paste0(year, "_", drug_policy),
          ) %>%
          mutate(drug_policy_simple = replace(drug_policy_simple,drug_policy_simple=="", "NO DATA" ))
   
@@ -302,7 +304,7 @@ gf_pol_interp <- gf_pol_interp %>%
 ##gf_pol_plot2 %>% group_by(drug) %>% summarise(test = sum(proportion_drug,na.rm=T))
 
 gf_pol_plot2 <- gf_pol_interp %>% 
-  select(iso3c, name_0, year, pol_year, drug_policy_simple, AL_interp:DHAPPQ_interp, AL:ASMQ) %>%
+  select(iso3c, name_0, year, drug_policy_simple, AL_interp:DHAPPQ_interp, AL:ASMQ) %>%
   rename_with(~ paste0(.x, "_raw"), 
               .cols = AL:ASMQ) %>%
   pivot_longer(cols = c(AL_interp:DHAPPQ_interp, AL_raw:ASMQ_raw), 
@@ -344,13 +346,13 @@ p <-ggplot(gf_pol_plot2,
   xlab("year") +
   ylab("proportion of drug purchases, GF") +
   ylim(c(-0.1, 1.1))
-p
+#p
 ggsave(filename = "analysis/plots/policy_vs_use_original.tiff", plot=p, compression="lzw",
        width = 13, height = 7)  
 
 
-#### Edit based on policy
-# Equatorial Guinea & Gabon – switched to MFT from ASAQ recently and no data. 
+#### Edit interpolated drug procurement based on country drug policy
+# Equatorial Guinea & Gabon – switched to MFT from ASAQ recently and no procurement data. 
       #->Use mean of recent MFT neighbouring countries in the same years (Cameroon, DRC)
 gf_pol_interp2 <- gf_pol_interp %>%
   group_by(year) %>%
@@ -366,7 +368,8 @@ gf_pol_interp2 <- gf_pol_interp %>%
                                                year == cur_group()$year], na.rm = TRUE))) %>%
   ungroup()
 
-#   Congo Brazzaville data is out of sync with policy and missing recent years. Switch to ASAQ in previous years?
+#   Congo Brazzaville interpolation is out of sync with policy and missing recent years. 
+#  Interpolate using neighbouring countries with the same drug policy: Cameroon, DRC, Gabon.
 gf_pol_interp2 <- gf_pol_interp2 %>%
   group_by(year) %>%
   mutate(AL_interp2 = replace(AL_interp2, 
@@ -378,7 +381,8 @@ gf_pol_interp2 <- gf_pol_interp2 %>%
                               mean(ASAQ_interp2[(iso3c == "CMR" | iso3c == "COD" | iso3c == "GAB") & 
                                                year == cur_group()$year], na.rm = TRUE))) %>%
          ungroup()
-# Djibouti – missing data after policy switch from ASSP to AL. Assume the switch occurs at similar time as other countries in the region with ASSP policy: Sudan, Somalia.
+# Djibouti – missing data after policy switch from ASSP to AL. 
+# Assume the switch occurs at similar time as other countries in the region with ASSP policy: Sudan, Somalia.
 gf_pol_interp2 <- gf_pol_interp2 %>%
   group_by(year) %>%
   mutate(AL_interp2 = replace(AL_interp2, 
@@ -391,8 +395,8 @@ gf_pol_interp2 <- gf_pol_interp2 %>%
                                                     year == cur_group()$year], na.rm = TRUE))) %>%
   ungroup()
 
-# Mali – gaps in procurement data during MFT – uncertain time of change from ASAQ to AL. 
-# Implement linear interpolation.
+# Mali – gaps in procurement data during MFT policy – uncertain time of change from ASAQ to AL. 
+# Implement linear interpolation instead of step change.
 gf_pol_interp2 <- gf_pol_interp2 %>%
   mutate(AL_interp2 = replace(AL_interp2, iso3c=="MLI" & year>=2010 & year<=2013, NA),
          ASAQ_interp2 = replace(ASAQ_interp2, iso3c=="MLI" & year>=2010 & year<=2013, NA),
@@ -402,20 +406,22 @@ gf_pol_interp2 <- gf_pol_interp2 %>%
                                zoo::na.approx(ASAQ_interp2, na.rm = FALSE), ASAQ_interp2))
 
 #### Tidy it all up and use the new interp2 values.
-# To do: renormalise all the 'interp' values as some will not sum to 1.
+# Renormalise all the 'interp' values as some will not sum to 1 when using neighbouring country means.
 gf_pol_interp2 <- gf_pol_interp2 %>%
-  select(-c(AL_interp, ASAQ_interp, ASSP_interp, matches("_2005"))) %>%
+  select(-c(AL_interp, ASAQ_interp, ASSP_interp)) %>%
   rename_with(~ gsub("interp2", "interp", .x), .cols = matches("interp2")) %>%
-  select(iso3c, name_0, year, pol_year, drug_policy_simple, matches("_interp"), AL:ASMQ) %>%
+  select(iso3c, name_0, year, drug_policy_simple, matches("_interp"), AL:ASMQ) %>%
   rename_with(~ paste0(.x, "_raw"), .cols = AL:ASMQ) %>%
   # Add a new column 'total_gf_drugs' which sums across all columns that match "_interp"
   rowwise() %>%
   mutate(total_gf_drugs = sum(across(matches("_interp")), na.rm = TRUE)) %>%
   # Apply the transformation only if total_gf_drugs > 0
   mutate(across(matches("_interp"), ~ ifelse(total_gf_drugs > 0, .x / total_gf_drugs, 0))) %>%
+  mutate(name_0 = countrycode::countrycode(iso3c, "iso3c", "country.name")) %>%
   ungroup()
 
-
+# save for future covariate use
+saveRDS(gf_pol_interp2, "analysis/data-derived/ACT_usage_final_interpolation_2000-2022.rds")
 
 
 gf_pol_plot3 <- gf_pol_interp2 %>% 
