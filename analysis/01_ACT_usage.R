@@ -21,7 +21,7 @@ dg <- dg %>%
       paste0(c("Total_"), paste(2019:2022)),
       paste0(c("AL_"), paste(2019:2022)),
       paste0(c("ASAQ_"), paste(2019:2022)),
-      paste0(c("DP_"), paste(2019:2022)),
+      paste0(c("DHAPPQ_"), paste(2019:2022)),
       paste0(c("ASPY_"), paste(2019:2022)),
       c("AL", "ASAQ", "DP", "ASPY")
     )
@@ -85,6 +85,9 @@ gf <- gf %>% filter(treatment == "Frontline") %>%
 full <- rbind(dg, gf) %>% 
   group_by(iso3c, product,year) %>% 
   summarise(value = sum(value))
+
+# save the raw procurement values to look at drug volumes as well as proportions
+saveRDS(full, "analysis/data-derived/gf_procurement_clean.rds")
 
 # make wide format
 full2 <- full %>% 
